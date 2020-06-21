@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-#export NO_COLOR=true
-#chifra list $2 --fmt json | grep -v "\"address\"" | jq >appearances/$1/$2.json
-#sleep .2
-
+START_ROUND_6=10245999
 export NO_COLOR=true
 export API_MODE=true
-chifra export --articulate $2 | jq >transactions/$1/$2.json
+
+#chifra list $2 --start $START_ROUND_6 | grep -v "\"address\"" | jq '.' >appearances/$1/$2.json
+chifra export $2 --articulate --start $START_ROUND_6 | jq '.' >transactions/$1/$2.json
+
 sleep .2

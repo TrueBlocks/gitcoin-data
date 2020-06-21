@@ -1,0 +1,2 @@
+Block to start study on:			10245999
+First transaction on new gitcoin splitter:	10245999.33
