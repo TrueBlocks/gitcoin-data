@@ -1,0 +1,493 @@
+tags	address	name	symbol	source	decimals	description	deleted	is_custom	is_prefund
+31-Gitcoin Grants:Grant	0x007b003c4d0145b512286494d5ae123aeef29d9e	Grant 845 Remote Developer Bootcamp		https://gitcoin.co/grants/845/remote-developer-bootcamp		https://github.com/blockvigil/bootcamp	false	false	false
+31-Gitcoin Grants:Grant	0x0087a081a9b430fd8f688c6ac5dd24421bfb060d	Grant 779 DeFi LATAM		https://gitcoin.co/grants/779/defi-latam		http://defilatam.com/	false	false	false
+31-Gitcoin Grants:Grant	0x00cf36853aa4024fb5bf5cc377dfd85844b411a0	Grant 143 Dappnode		https://gitcoin.co/grants/143/dappnode			false	false	false
+31-Gitcoin Grants:Grant	0x00de4b13153673bcae2616b67bf822500d325fc3	Grant 012 Grant 086 Gitcoin Sustainability Fund		https://gitcoin.co/grants/12/gitcoin-open-source-support-fund			false	false	false
+31-Gitcoin Grants:Grant	0x00fe460a15b49d09f39b057d0f1a7b9444f4f2be	Grant 624 Nescience Software Portfolio Rebalancing Direct Indexing		https://gitcoin.co/grants/624/nescience-software-portfolio-rebalancing-direct-in		https://nescience.io	false	false	false
+31-Gitcoin Grants:Grant	0x0115f5ce3f986a35b1edb6f2c3815cebb2461e70	Grant 790 Loft Radio		https://gitcoin.co/grants/790/loft-radio		https://loft.radio/	false	false	false
+31-Gitcoin Grants:Grant	0x011c2c1433b36a524b548444ae2f20c015427d04	Grant 491 Tokamak Network: Decentralized Scalable Turing Complete Layer 2 Plasma		https://gitcoin.co/grants/491/tokamak-network-decentralized-scalable-turing-comp		https://tokamak.network/	false	false	false
+31-Gitcoin Grants:Grant	0x015bf68ef11bd55e43a119b5752c4b3becae7f24	Grant 627 Veridex		https://gitcoin.co/grants/627/veridex		https://dex.verisafe.io/	false	false	false
+31-Gitcoin Grants:Grant	0x017946fc126d57e7823e68c647c24f28e5dc9988	Grant 190 Groundhog		https://gitcoin.co/grants/190/groundhog			false	false	false
+31-Gitcoin Grants:Grant	0x01f1e9319982ab828203c0276727cf48065434d3	Grant 602 RealityLearn: Teaching the world about blockchain		https://gitcoin.co/grants/602/realitylearn		https://www.tks.life/profile/rishab.chakraborty	false	false	false
+31-Gitcoin Grants:Grant	0x02cb3c150bedca124d0ae8cccb72fefbe705c953	Grant 782 Ethereum Cat Herders Community Fund		https://gitcoin.co/grants/782/ethereum-cat-herders-community-fund		https://twitter.com/EthCatHerders	false	false	false
+31-Gitcoin Grants:Grant	0x02eb002d88051c03ef312f63bbf3e38aada0b902	Grant 031 Grantops		https://gitcoin.co/grants/31/grantops			false	false	false
+31-Gitcoin Grants:Grant	0x039ae2898d257f4c9d7e381d478ee1ed042fe2f4	Grant 284 My DAO Dashboard		https://gitcoin.co/grants/284/my-dao-dashboard		http://mydaodashboard.com/	false	false	false
+31-Gitcoin Grants:Grant	0x03c2bc72a3e007179e54ffb4563cc235bec8151a	Grant 600 Synthereum: synthetic assets with liquidity pools to bridge traditional and digital finance		https://gitcoin.co/grants/600/synthereum-synthetic-assets-with-liquidity-pools-t		https://jarvis.network	false	false	false
+31-Gitcoin Grants:Grant	0x04607ca1048f490578f233a8b1354778defdd178	Grant 608 Signatory Client		https://gitcoin.co/grants/608/signatory-client		https://vbstreetz.github.io/signatory-client/	false	false	false
+31-Gitcoin Grants:Grant	0x0466e612137bca50e524f25ac9f7b6f826ee15b7	Grant 900 1Hive Gardens		https://gitcoin.co/grants/900/1hive-gardens-2		https://1hive.org	false	false	false
+31-Gitcoin Grants:Grant	0x04b7f60169fe048b7806a7e5fe731a37be23111e	Grant 650 KodaDot: Claim Tokens feature		https://gitcoin.co/grants/650/kodadot-claim-tokens-feature		https://vue-polkadot.js.org	false	false	false
+31-Gitcoin Grants:Grant	0x04bb33c3a8c2d018836a1f938054ebb59e0036b2	Grant 104 Walletsreview		https://gitcoin.co/grants/104/walletsreview			false	false	false
+31-Gitcoin Grants:Grant	0x057a3d5383fd9277f3ab4f98e319d7d9a9a9e198	Grant 292 Will Brealey Ethereum Writer		https://gitcoin.co/grants/292/will-brealey-ethereum-writer		https://medium.com/@w_brealey	false	false	false
+31-Gitcoin Grants:Grant	0x06044b5359d8df7886366c22c61c7ecd29becac7	Grant 336 dHack A decentralized hackathon model		https://gitcoin.co/grants/336/dhack-a-decentralized-hackathon-model		https://dhack.io	false	false	false
+31-Gitcoin Grants:Grant	0x0639092a9c3d9467dd6f89a13213541c8a1e58b2	Grant 194 Reach Platform		https://gitcoin.co/grants/194/reach-platform			false	false	false
+31-Gitcoin Grants:Grant	0x068792edecad424d42f0f45de7f693ca33526cf1	Grant 075 Ethereum Dev Fund Working Group		https://gitcoin.co/grants/75/ethereum-dev-fund-working-group			false	false	false
+31-Gitcoin Grants:Grant	0x0730fd7d15fa9a40a6c7b2bbb4b8ce9ee6e6d08b	Grant 141 Metamoneymarket jacobshiach		https://gitcoin.co/grants/141/metamoneymarket			false	false	false
+31-Gitcoin Grants:Grant	0x073ab1c0cad3677cde9bdb0cdeedc2085c029579	Grant 268 Simpleaswater		https://gitcoin.co/grants/268/simpleaswater			false	false	false
+31-Gitcoin Grants:Grant	0x08497b07916280da27b43d28a0d3dfa7d6676b58	Grant 122 Austin Griffith Ethereum Rampd		https://gitcoin.co/grants/122/austin-griffith-ethereum-rampd			false	false	false
+31-Gitcoin Grants:Grant	0x08b440dd2b2dd0b0de112d5f6eb6d9028eb86b70	Grant 425 Turkish Cryptocurrency YouTuber and Researcher		https://gitcoin.co/grants/425/turkish-cryptocurrency-youtuber-and-researcher		https://www.youtube.com/bitcoinkralicesi	false	false	false
+31-Gitcoin Grants:Grant	0x08ceb8bba685ee708c9c4c65576837cbe19b9dea	Grant 759 DeFi Arts Intelligencer		https://gitcoin.co/grants/759/defi-arts-intelligencer		https://artsdefi.substack.com/	false	false	false
+31-Gitcoin Grants:Grant	0x0b25b46a70e7f9296c6d8bae9a84c887da5cb9ec	Grant 474 Kudos quest quality management		https://gitcoin.co/grants/474/baas-on-aws-gcp-azure-adoption-of-blockchain-for-e		https://github.com/sizzthehedgehog?tab=repositories	false	false	false
+31-Gitcoin Grants:Grant	0x0b93ba560283350d4216f29dc57e15df38d0eace	Grant 887 Towards Structural Equality		https://gitcoin.co/grants/887/empower-caribbean-farmers-and-entrepreneurs		https://curadao.io/	false	false	false
+31-Gitcoin Grants:Grant	0x0bb7cc378617c65a61b2da678c69f85072205a4f	Grant 716 Cointigo Universal Financial Access		https://gitcoin.co/grants/716/cointigo-universal-financial-access		https://cointigo.io/	false	false	false
+31-Gitcoin Grants:Grant	0x0bf9a0a45077ac0a26637d8130fd759d74e0dc1d	Grant 354 Blockchangers community		https://gitcoin.co/grants/354/blockchangers-community		https://www.meetup.com/blockchangers/	false	false	false
+31-Gitcoin Grants:Grant	0x0cc7090d567f902f50cb5621a7d6a59874364ba1	Grant 861 ERC20 index		https://gitcoin.co/grants/861/erc20-index		https://erc20index.herokuapp.com	false	false	false
+31-Gitcoin Grants:Grant	0x0cf861f96378dbd5194d74cbe6b0424fafaed940	Grant 806 DeFiPedia		https://gitcoin.co/grants/806/defipedia		http://defipedia.eth.link/	false	false	false
+31-Gitcoin Grants:Grant	0x0d3d681762f9eda9541fab6acfb17c50025b630b	Grant 554 Commūnitās		https://gitcoin.co/grants/554/communitas		https://github.com/jpaulet/comunitas	false	false	false
+31-Gitcoin Grants:Grant	0x0d54b43d103f5702ebcc522cd4b70e71ee8ea50b	Grant 601 Spells.fyi See the Future		https://gitcoin.co/grants/601/spellsfyi-see-the-future		https://spells.fyi	false	false	false
+31-Gitcoin Grants:Grant	0x0d81d9e21bd7c5bb095535624dcb0759e64b3899	Grant 729 Decentralized Internet		https://gitcoin.co/grants/729/decentralized-internet		https://lonero.readthedocs.io	false	false	false
+31-Gitcoin Grants:Grant	0x0dee9a06897e6d2e1e3d49acb0f21a6b439181e5	Grant 276 Winiwallet		https://gitcoin.co/grants/276/winiwallet			false	false	false
+31-Gitcoin Grants:Grant	0x0df05adac0159e215111696339ad4998e5871b3d	Grant 576 BlockScout.com for Ethereum Mainnet hosting		https://gitcoin.co/grants/576/blockscoutcom-for-ethereum-mainnet-hosting		https://blockscout.com/eth/mainnet	false	false	false
+31-Gitcoin Grants:Grant	0x0ea18c95d601c8999fb9999f67d38da59d066d89	Grant 807 Examples of Options		https://gitcoin.co/grants/807/examples-of-options		https://sites.google.com/uottawa.ca/examples-of-options/	false	false	false
+31-Gitcoin Grants:Grant	0x0ed697d48fedbee30776877aea74d94fc46ac253	Grant 587 Dragon Quest Hackathon		https://gitcoin.co/grants/587/dragon-quest-hackathon		https://hackathon.metacartel.org/	false	false	false
+31-Gitcoin Grants:Grant	0x0efe994201e2b0136dd40d5033b5f437e4c5f958	Grant 274 Abridged 2		https://gitcoin.co/grants/274/abridged-2			false	false	false
+31-Gitcoin Grants:Grant	0x0f1025f754b3eb32ab3105127b563084bfa03a6f	Grant 155 Tensortrade Trade Efficiently With Reinforcement L		https://gitcoin.co/grants/155/tensortrade-trade-efficiently-with-reinforcement-l			false	false	false
+31-Gitcoin Grants:Grant	0x1074f62d7019c3184a2f7ea8c6a8acd6780beb48	Grant 083 Poa Network Community Management Grant For Adj		https://gitcoin.co/grants/83/poa-network-community-management-grant-for-adj-2			false	false	false
+31-Gitcoin Grants:Grant	0x11e4857bb9993a50c685a79afad4e6f65d518dda	Grant 048 Uniswap		https://gitcoin.co/grants/48/uniswap			false	false	false
+31-Gitcoin Grants:Grant	0x11e52c75998fe2e7928b191bfc5b25937ca16741	Grant 678 EthAddress Stats Utility Dashboard		https://gitcoin.co/grants/678/ethaddress-stats-utility-dashboard		https://ethstats.info	false	false	false
+31-Gitcoin Grants:Grant	0x1222d0ded67a533b3163397fd917bc8ac6f96b7a	Grant 655 Alternative income for poor families in Brazil		https://gitcoin.co/grants/655/alternative-income-for-poor-families-in-brazil			false	false	false
+31-Gitcoin Grants:Grant	0x1266f928b7964173434d3feb6da2554b141920b8	Grant 723 EtherDNA		https://gitcoin.co/grants/723/etherdna		https://etherdna.github.io/app/	false	false	false
+31-Gitcoin Grants:Grant	0x127c6839dee7c737767c9f62d13996e27854505d	Grant 419 Project Maple Cryptographic Currency Redefined.		https://gitcoin.co/grants/419/project-maple-cryptographic-currency-redefined		https://github.com/alialiwa2005/Maple	false	false	false
+31-Gitcoin Grants:Grant	0x133d705a9696882228f6bb7fe008745aef7cdc93	Grant 160 Antiprosynth Twitter Account Activity					false	false	false
+31-Gitcoin Grants:Grant	0x1352400bf96d73d41e033f5a14416357a5e0b6bf	Grant 120 Nori		https://gitcoin.co/grants/120/nori			false	false	false
+31-Gitcoin Grants:Grant	0x1388961fbc1df252749b91a2a73c4b0d7377841f	Grant 530 0xEarth		https://gitcoin.co/grants/530/0xearth		https://0xearth.github.io/	false	false	false
+31-Gitcoin Grants:Grant	0x139e7746745fbf42ca485845881697f9621b4b27	Grant 575 GetLogin.Eth		https://gitcoin.co/grants/575/getlogineth		https://github.com/GetLoginEth/	false	false	false
+31-Gitcoin Grants:Grant	0x140e7364ee4e29a677a9d6ccf26ac945e7e80b65	Grant 212 Thx Open Protocol For Online Rewards		https://gitcoin.co/grants/212/thx-open-protocol-for-online-rewards			false	false	false
+31-Gitcoin Grants:Grant	0x147c06f559f742cc9ef2ea5e628f381bccdce2ba	Grant 364 React Native support for IPFS		https://gitcoin.co/grants/364/react-native-support-for-ipfs		https://github.com/openworklabs/react-native-ipfs-http-client/	false	false	false
+31-Gitcoin Grants:Grant	0x158d6727b17aaba726d7318ac7dca5edf8faf6f8	Grant 475 CryptoGift		https://gitcoin.co/grants/475/cryptogift		https://vittominacori.github.io/cryptogift/	false	false	false
+31-Gitcoin Grants:Grant	0x1591b9056822c273252fcea32963223650db18e1	Grant 220 Cryptorado					false	false	false
+31-Gitcoin Grants:Grant	0x15ef9189a8282e4e1e985eb8ed767e7426b4bfd5	Grant 211 Trust Graphic Novel anneconnelly					false	false	false
+31-Gitcoin Grants:Grant	0x16385dfcc9139ffb357746780b64a605b4cb46f0	Grant 377 NEWFORKDELTA		https://gitcoin.co/grants/377/newforkdelta-2		https://newforkdelta.github.io/	false	false	false
+31-Gitcoin Grants:Grant	0x163cc449cdf9d1ba22e9b81f0f9c9f01c2ab76a1	Grant 895 Help with studies		https://gitcoin.co/grants/895/help-with-studies		https://www.udemy.com/	false	false	false
+31-Gitcoin Grants:Grant	0x165107ce980edff38065261326354c3d6cd809e6	Grant 709 Adoption and dissemination of Ethereum Technology		https://gitcoin.co/grants/709/adoption-and-dissemination-of-ethereum-technology		https://blockchaincounselor.blogspot.com/	false	false	false
+31-Gitcoin Grants:Grant	0x16a59020e5054da726a4d6d0d465758eb0b49e7c	Grant 862 The Movement DAO		https://gitcoin.co/grants/862/the-movement-dao		https://movementdao.io/	false	false	false
+31-Gitcoin Grants:Grant	0x1719c7dc8216ce67f96171e1a817195ae075d78d	Grant 428 Solexplorer Gitcoin Community Manager		https://gitcoin.co/grants/428/solexplorer-gitcoin-community-manager		https://gitcoin.co/solexplorer	false	false	false
+31-Gitcoin Grants:Grant	0x1852ce0c68657ed51b4bf6ef02cfc7a4f32298a9	Grant 133 Abridged					false	false	false
+31-Gitcoin Grants:Grant	0x18ac920241e0f5699448379e63069724d9d8a603	Grant 544 CultureStake		https://gitcoin.co/grants/544/culturestake		https://www.furtherfield.org/culturestake-2/	false	false	false
+31-Gitcoin Grants:Grant	0x197553ddfdb7b9c3c4216e2914456788bfd59c86	Grant 844 Solidity Visualizer Extension		https://gitcoin.co/grants/844/solidity-visualizer-extension		https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor	false	false	false
+31-Gitcoin Grants:Grant	0x19fa61309158e138b685646247f58a3ce9f18145	Grant 311 echonomics		https://gitcoin.co/grants/311/echonomics		https://twitter.com/Maverickal_	false	false	false
+31-Gitcoin Grants:Grant	0x1aa587c2288750173cc6af7c92bad7209904e496	Grant 150 Ethereum Egift Cards		https://gitcoin.co/grants/150/ethereum-egift-cards			false	false	false
+31-Gitcoin Grants:Grant	0x1cc1c78bcfa5e872cceba516ef821e30a280a9bb	Grant 286 One Million Developers Community Fund		https://gitcoin.co/grants/286/one-million-developers-community-fund		https://github.com/OneMillionDevs	false	false	false
+31-Gitcoin Grants:Grant	0x1dcb85efea6a3fb528d19b9174e88ee35bff540a	Grant 629 Dev Protocol		https://gitcoin.co/grants/629/dev-protocol		https://devprtcl.com/	false	false	false
+31-Gitcoin Grants:Grant	0x1edb9a64b960685ed9bdb1c9b5761fae0423aff8	Grant 672 Crypto Spanish		https://gitcoin.co/grants/672/crypto-espanol		https://www.youtube.com/channel/UC_TmOIPWu-hCVuE2fA3M8Tg	false	false	false
+31-Gitcoin Grants:Grant	0x20a5814b73ef3537c6e099a0d45c798f4bd6e1d6	Grant 222 Tenderly		https://gitcoin.co/grants/222/tenderly			false	false	false
+31-Gitcoin Grants:Grant	0x2156e9ed357fcc134161b7df0edfe26591d8d329	Grant 047 Evm Evolution		https://gitcoin.co/grants/47/evm-evolution			false	false	false
+31-Gitcoin Grants:Grant	0x224cf0b963c59b95623b3dd6ce07b4ce40f7b134	Grant 853 Launching a web wallet for our 24 000+Kenyan local community currency economy		https://gitcoin.co/grants/853/launching-a-web-wallet-for-our-24000-kenyan-local		https://multiply.charity	false	false	false
+31-Gitcoin Grants:Grant	0x2293fc0e35461aea297ae6fb9525493c9799ad8f	Grant 883 Piotr Misiurek Zrozumieć Bitcoina		https://gitcoin.co/grants/883/piotr-misiurek-zrozumiec-bitcoina		https://zrozumiecbitcoina.pl/	false	false	false
+31-Gitcoin Grants:Grant	0x22b5de197d8a8ca13e361c268f58baf088ac4dc0	Grant 443 Cretter solving critical thinking and debates on the internet		https://gitcoin.co/grants/443/cretter-solving-critical-thinking-and-debates-on-t		https://cretter.org	false	false	false
+31-Gitcoin Grants:Grant	0x23dbbf0ffd28bf754fdc1e52f302b81303c211b0	Grant 391 BoxSwap		https://gitcoin.co/grants/391/boxswap		https://boxswap.io/	false	false	false
+31-Gitcoin Grants:Grant	0x23f4ab95f85599e6af9ada4fb3a272911682c239	Grant 609 Redeem Defi		https://gitcoin.co/grants/609/redeem-defi		http://redeemdefi.com/	false	false	false
+31-Gitcoin Grants:Grant	0x24e8bb6a37774d8a0187e196beb29601ed5920bf	Grant 348 EtherLoans undercollateralized loans unstoppable DeFi		https://gitcoin.co/grants/348/etherloans-undercollateralized-loans-unstoppable-d		https://www.etherloans.io/	false	false	false
+31-Gitcoin Grants:Grant	0x250608d0aeeb7489adba2ae5856c80b8714ffabf	Grant 123 Gitcoin Product Development Grant		https://gitcoin.co/grants/123/gitcoin-product-development-grant-2			false	false	false
+31-Gitcoin Grants:Grant	0x252da35c66f55ac66d97acc6aef4f5d18e25853c	Grant 471 whiterabbit		https://gitcoin.co/grants/471/whiterabbit		https://github.com/whiterabbit-hq	false	false	false
+31-Gitcoin Grants:Grant	0x2551727bb6eeb4e5917e616dffc3923402fe1bc3	Grant 611 The Fellowship Of The Unicorn		https://gitcoin.co/grants/611/the-fellowship-of-the-unicorn		https://github.com/daodesigner	false	false	false
+31-Gitcoin Grants:Grant	0x261735653d47683ca21d0ec7716dc0470fd35b55	Grant 236 Beginner And Advanced Dapp Programming Tutorials F					false	false	false
+31-Gitcoin Grants:Grant	0x26193384d99f392fdd01a88228f12f8814f993cd	Grant 773 Oya Protocol		https://gitcoin.co/grants/773/oya-protocol		https://oya.market	false	false	false
+31-Gitcoin Grants:Grant	0x26db4a1b947a59878a303653e42ca775557eee38	Grant 715 DGov Score Framework		https://gitcoin.co/grants/715/dgov-score-framework		http://www.ledgerback.coop	false	false	false
+31-Gitcoin Grants:Grant	0x27c350caacf45fd935814bdd2a07b2b9bffe9203	Grant 280 Fairdrop Secure Private Unstoppable File Transfer		https://gitcoin.co/grants/280/fairdrop-secure-private-unstoppable-file-transfer			false	false	false
+31-Gitcoin Grants:Grant	0x28b88cfd875c883cdb61938c97b8d1baabf31c88	Grant 453 Curve and Vyper research		https://gitcoin.co/grants/453/curve-related-vyper-research		https://www.curve.fi/	false	false	false
+31-Gitcoin Grants:Grant	0x28f4a17f8a99ab90c1a401b85d694b2c0ea40c4b	Grant 119 Gitcoin Support Grant		https://gitcoin.co/grants/119/gitcoin-core-support-grant			false	false	false
+31-Gitcoin Grants:Grant	0x294f999356ed03347c7a23bcbcf8d33fa41dc830	Grant 891 The Genesis DAO		https://gitcoin.co/grants/891/the-genesis-dao-2		https://alchemy.daostack.io/dao/0x294f999356ed03347c7a23bcbcf8d33fa41dc830	false	false	false
+31-Gitcoin Grants:Grant	0x299611a1831a5497803b878c0ae14ad3bb5a124b	Grant 651 Appreciation App		https://gitcoin.co/grants/651/appreciation-app		https://appreciationapp.co/	false	false	false
+31-Gitcoin Grants:Grant	0x29ae75ccbebce13cb9927ef3d3ce28965d6a66d2	Grant 290 Meson		https://gitcoin.co/grants/290/meson		https://github.com/hashcloak/Meson	false	false	false
+31-Gitcoin Grants:Grant	0x2a21476c0eae40b0c46cb4771e6b8cf8a20f4d37	Grant 676 The Great Pug		https://gitcoin.co/grants/676/the-great-pug		https://thegreatpug.com	false	false	false
+31-Gitcoin Grants:Grant	0x2ae09febfd8a811207a378b142d74ffd23073610	Grant 015 Whiteblock Testing		https://gitcoin.co/grants/15/whiteblock-testing-2			false	false	false
+31-Gitcoin Grants:Grant	0x2b47c57a4c9fc1649b43500f4c0cda6cf29be278	Grant 269 Limit To Win It		https://gitcoin.co/grants/269/limit-to-win-it			false	false	false
+31-Gitcoin Grants:Grant	0x2bb1b3510a1f609cbc74b98b3eb622cfcc3be16e	Grant 381 Animated charts of DeFi/Ethereum by James Todaro		https://gitcoin.co/grants/381/animated-charts-of-defiethereum-by-james-todaro		https://twitter.com/JamesTodaroMD	false	false	false
+31-Gitcoin Grants:Grant	0x2d407ddb06311396fe14d4b49da5f0471447d45c	Grant 416 iearn.finance		https://gitcoin.co/grants/416/iearnfinance-2		https://docs.iearn.finance	false	false	false
+31-Gitcoin Grants:Grant	0x2f06416a0088199aba7be7027d96714bd89afe22	Grant 804 Nashville Community Bail Fund		https://gitcoin.co/grants/804/nashville-community-bail-fund		https://nashvillebailfund.org/	false	false	false
+31-Gitcoin Grants:Grant	0x2ffb871671e903de0e799c3aaff48a3fe03316f3	Grant 670 Geoma DAO		https://gitcoin.co/grants/670/geoma-dao		http://thegeomadao.com/	false	false	false
+31-Gitcoin Grants:Grant	0x30755d3e65c0cf46c35b72d11e52d941c5fc3a3e	Grant 026 Peepeth Social Network For A Better World		https://gitcoin.co/grants/26/peepeth-social-network-for-a-better-world			false	false	false
+31-Gitcoin Grants:Grant	0x3111327edd38890c3fe564afd96b4c73e8101747	Grant 510 Trustless Fund		https://gitcoin.co/grants/510/trustless-fund		https://trustless.fund/	false	false	false
+31-Gitcoin Grants:Grant	0x322d58b9e75a6918f7e7849aee0ff09369977e08	Grant 296 DeFi Saver		https://gitcoin.co/grants/296/defi-saver		https://defisaver.com/	false	false	false
+31-Gitcoin Grants:Grant	0x323e5692152cdf04d84ea8aed57ec8a8caf43e92	Grant 214 Axiom Finance ahoffaxiom					false	false	false
+31-Gitcoin Grants:Grant	0x32cefb2dc869bbfe636f7547cda43f561bf88d5a	Grant 152 Ethereum For Farsi Speaking Population					false	false	false
+31-Gitcoin Grants:Grant	0x332d87209f7c8296389c307eae170c2440830a47	Grant 584 88mph		https://gitcoin.co/grants/584/88mph		https://88mph.app/	false	false	false
+31-Gitcoin Grants:Grant	0x335bee461cbbab5bd574e0767f1ead25bd5e0001	Grant 308 cadCAD: Computer Aided Design for Complex Systems		https://gitcoin.co/grants/308/cadcad-computer-aided-design-for-complex-systems		https://cadcad.org/	false	false	false
+31-Gitcoin Grants:Grant	0x335d6cec3668f9951c3aa90600986ab350b3d059	Grant 477 FriendsFingers		https://gitcoin.co/grants/477/friendsfingers		https://app.friendsfingers.com	false	false	false
+31-Gitcoin Grants:Grant	0x358102be6f587f7455d102cc330230a1d112d085	Grant 781 ENSPortal		https://gitcoin.co/grants/781/ensportal		https://ensportal.com	false	false	false
+31-Gitcoin Grants:Grant	0x35b32b4b66e3fed103288365de66d1fcb2f883ad	Grant 219 Blockada Dao		https://gitcoin.co/grants/219/blockada-dao			false	false	false
+31-Gitcoin Grants:Grant	0x35ca7ae854338dcbc154066f0ea00b636d38e431	Grant 126 Humans of Ethereum		https://gitcoin.co/grants/126/humansofethereum			false	false	false
+31-Gitcoin Grants:Grant	0x363fdb02aee6838afb0e034dc5ea54eb8e31e8b9	Grant 288 Educational deeply technical talks Help me buy a camera		https://gitcoin.co/grants/288/educational-deeply-technical-talks-help-me-buy-a-c			false	false	false
+31-Gitcoin Grants:Grant	0x364282a1ffc5ef403952422408eaf3972f692653	Grant 787 Qonico IoT Open Blockchain		https://gitcoin.co/grants/787/qonico-iot-open-blockchain		https://www.qonico.com	false	false	false
+31-Gitcoin Grants:Grant	0x36a0356d43ee4168ed24efa1cae3198708667ac0	Grant 177 Crypto Reward Courts Grant 179 Algebraic General Topology		https://gitcoin.co/grants/177/crypto-reward-courts			false	false	false
+31-Gitcoin Grants:Grant	0x37a45adbb275d5d3f8100f4cf16977cd4b0f9fb7	Grant 889 Litentry		https://gitcoin.co/grants/889/litentry-2		https://www.litentry.com/	false	false	false
+31-Gitcoin Grants:Grant	0x37c9ede55345e99feb48010ff21a0bc295f22e52	Grant 287 Dessert Dai		https://gitcoin.co/grants/287/dessert-dai		https://ddai.dexwallet.io/	false	false	false
+31-Gitcoin Grants:Grant	0x38298ef8a8306579e21246d5227694b5560d9cb5	Grant 085 Tennagraph Minimum Bias Ethereum Signal Aggregat		https://gitcoin.co/grants/85/tennagraph-minimum-bias-ethereum-signal-aggregat-2			false	false	false
+31-Gitcoin Grants:Grant	0x3849ba8a4d7193bf550a6e04632b176f9ce1b7e8	Grant 161 Poketto Group		https://gitcoin.co/grants/161/poketto-group			false	false	false
+31-Gitcoin Grants:Grant	0x38eb6cfcb27f796fc02f00e0d95972f566d7b63a	Grant 897 DAOJanes		https://gitcoin.co/grants/897/daojanes			false	false	false
+31-Gitcoin Grants:Grant	0x392acfd0792c32222edf31c20dd0cc51528bb9ea	Grant 815 DeFi777		https://gitcoin.co/grants/815/defi777		https://defi777.com	false	false	false
+31-Gitcoin Grants:Grant	0x3945d766185e2264900c84fac10958b3619c2bd4	Grant 063 Radicalxchange		https://gitcoin.co/grants/63/radicalxchange			false	false	false
+31-Gitcoin Grants:Grant	0x3953017af23ab99a7d40f3d26f1595f27c91345f	Grant 548 togeDAO A forum and social media community built on the Ethereum blockchain to incentivize content creators.		https://gitcoin.co/grants/548/togedao-a-forum-and-social-media-community-built-o		http://togedao.ml/	false	false	false
+31-Gitcoin Grants:Grant	0x39e419ba25196794b595b2a595ea8e527ddc9856	Grant 171 Tellor		https://gitcoin.co/grants/171/tellor			false	false	false
+31-Gitcoin Grants:Grant	0x3a3355805181ba5752cb52cebe8c95c0f3ed3d61	Grant 805 CryptoArt Cartel		https://gitcoin.co/grants/805/cryptoart-cartel		https://thegoosenest.site	false	false	false
+31-Gitcoin Grants:Grant	0x3af494f0cee51d8aa74532d15e7733b6c91158a2	Grant 270 Decentralized Science		https://gitcoin.co/grants/270/decentralized-science			false	false	false
+31-Gitcoin Grants:Grant	0x3c6e0d0c9dba4709e9a8b85d1003e9985b799578	Grant 095 Tsskit Threshold Signature Scheme Toolkit		https://gitcoin.co/grants/95/tsskit-threshold-signature-scheme-toolkit			false	false	false
+31-Gitcoin Grants:Grant	0x3c7bc69e09e387906ff6f60db5a49d3fa2c1ddb0	Grant 231 Buidl Honduras					false	false	false
+31-Gitcoin Grants:Grant	0x3d51ac03ea895c258057f2540a85293d3bc595fd	Grant 714 DeFlast Instantly swap your collateral in Compound		https://gitcoin.co/grants/714/deflast-instantly-swap-your-collateral-in-compound		https://deflast.finance/	false	false	false
+31-Gitcoin Grants:Grant	0x3e16c13791343713fdb5cadaa4fd43cd185f7799	Grant 158 Floyd Economy		https://gitcoin.co/grants/158/floyd-economy			false	false	false
+31-Gitcoin Grants:Grant	0x3e947a271a37ae7b59921c57be0a3246ee0d887c	Grant 199 Fuel Labs		https://gitcoin.co/grants/199/fuel-labs			false	false	false
+31-Gitcoin Grants:Grant	0x3ea7cc0f434b8711cf6bcd0d49eedf67a8233af9	Grant 835 octanolabs		https://gitcoin.co/grants/835/octanolabs		https://octano.dev	false	false	false
+31-Gitcoin Grants:Grant	0x3ea9dfa98f57564579bdebe8b2a86c2d9447e463	Grant 823 Decentralized Pandemic Reserve		https://gitcoin.co/grants/823/decentralized-pandemic-reserve		https://www.indigotheory.io/decentralized-pandemic-reserve	false	false	false
+31-Gitcoin Grants:Grant	0x3ec99c49a14d4973f27ce285bc20a989af9fa0db	Grant 217 Topo Finance					false	false	false
+31-Gitcoin Grants:Grant	0x3efcf2ddd54d841f253a95d8f30d97123568cd7b	Grant 016 Cryptoeconomicsstudy Free Open Source Blockchain kho		https://gitcoin.co/grants/16/cryptoeconomicsstudy-free-open-source-blockchain-2			false	false	false
+31-Gitcoin Grants:Grant	0x40ade8d4b29306486b0ed948dc2ed7a4ea71c2d8	Grant 780 Customata Decentralized recommendation engine for internet search and social media		https://gitcoin.co/grants/780/customata-decentralized-recommendation-engine-for		https://ipfs.sarchy.online/	false	false	false
+31-Gitcoin Grants:Grant	0x40e3780e5bec58629ac4c5dc3bca3df2d7fd0c35	Grant 412 Ethereum Commons: Testnets for ETC ETH		https://gitcoin.co/grants/412/ethereumcore-public-goods-faucets-gas-estimator-st		https://EthereumCore.org	false	false	false
+31-Gitcoin Grants:Grant	0x413ed157a79f9197e2fcc6af89ef89e7da00e5f2	Grant 674 Pixelart Crypto Portfolio		https://gitcoin.co/grants/674/pixelart-crypto-portfolio		https://twitter.com/Bighands_dev	false	false	false
+31-Gitcoin Grants:Grant	0x4194ce73ac3fbbece8ffa878c2b5a8c90333e724	Grant 225 Mooni					false	false	false
+31-Gitcoin Grants:Grant	0x41997060113af630a591e6cb23e1bc15fc90dc73	Grant 551 The Ethereum 2.0 Annotated Specification		https://gitcoin.co/grants/551/the-ethereum-20-annotated-specification		https://benjaminion.xyz/eth2-annotated-spec/	false	false	false
+31-Gitcoin Grants:Grant	0x41d2a18e1ddacdabfddadb62e9aee67c63070b76	Grant 562 Learning Data Science on the Ethereum Blockchain with @omnianalytics		https://gitcoin.co/grants/562/learning-data-science-on-the-ethereum-blockchain-w		https://github.com/Omni-Analytics-Group/eth-data-science-course	false	false	false
+31-Gitcoin Grants:Grant	0x42da91be491e4101f348b9a746183dad9a6f92a2	Grant 703 Dedge Swap Compound Collateral and Debt at Will		https://gitcoin.co/grants/703/dedge-swap-compound-collateral-and-debt-at-will			false	false	false
+31-Gitcoin Grants:Grant	0x43a5c1331375f1f34bd774ecaee51501e9ca2db5	Grant 429 DefiSnap Dashboard for DeFi		https://gitcoin.co/grants/429/defisnap-2		https://www.defisnap.io/	false	false	false
+31-Gitcoin Grants:Grant	0x46266f255e49756847587eabddfc4d336ef268d2	Grant 698 VenezVit		https://gitcoin.co/grants/698/venezvit		http://venezvit.com	false	false	false
+31-Gitcoin Grants:Grant	0x465dca9995d6c2a81a9be80fbced5a770dee3dae	Grant 776 Support Nazariy		https://gitcoin.co/grants/776/support-nazariy		https://www.youtube.com/channel/UC7KZmVBDuvLd_jhkp66pbiw?view_as=subscriber	false	false	false
+31-Gitcoin Grants:Grant	0x4906e4f95ad546ce865916f65c825e00630bffa8	Grant 438 ADOR		https://gitcoin.co/grants/438/ador		https://www.adors.org	false	false	false
+31-Gitcoin Grants:Grant	0x491f43cac7becf91f45438d3c39bb07982e0c0a3	Grant 536 Synapxyz		https://gitcoin.co/grants/536/synapxyz		https://synap.xyz/	false	false	false
+31-Gitcoin Grants:Grant	0x49608550e4b61e6de2ddff45b3361f6711319a14	Grant 865 ExtremeInsureMe DAO Cover for living a life less ordinary		https://gitcoin.co/grants/865/extremedao		https://extremeinsure.me/	false	false	false
+31-Gitcoin Grants:Grant	0x4bf66e52f3009cd138e48f142d47661037160001	Grant 038 Zero Knowledge Podcast		https://gitcoin.co/grants/38/zero-knowledge-podcast			false	false	false
+31-Gitcoin Grants:Grant	0x4c1f7c394b9fdbe23dcbe64e7b537b5354c71b24	Grant 039 Plasma Group		https://gitcoin.co/grants/39/plasma-group			false	false	false
+31-Gitcoin Grants:Grant	0x4c63f570590b7e145d5af265497aa23fa2bc0b8c	Grant 653 Gas Stations Network		https://gitcoin.co/grants/653/gas-stations-network		https://github.com/opengsn/gsn	false	false	false
+31-Gitcoin Grants:Grant	0x4c7bedfa26c744e6bd61cbdf86f3fc4a76dca073	Grant 688 TokenSmart		https://gitcoin.co/grants/688/tokensmart		http://discord.gg/nft	false	false	false
+31-Gitcoin Grants:Grant	0x4c8def836ff37b9c9c3ccd3c1796efc78bda7998	Grant 054 Progpow Full Stack Integration		https://gitcoin.co/grants/54/progpow-full-stack-integration			false	false	false
+31-Gitcoin Grants:Grant	0x4d07af703c163540c59763ff404710204334af81	Grant 590 Gwei.cz CZ/SK DeFi/Ethereum Community		https://gitcoin.co/grants/590/gweicz-czsk-defiethereum-community		https://gwei.cz	false	false	false
+31-Gitcoin Grants:Grant	0x4d37f28d2db99e8d35a6c725a5f1749a085850a3	Grant 246 1Split					false	false	false
+31-Gitcoin Grants:Grant	0x4d76e2943d04643b985a80c714f7f6b1f6fb0bbc	Grant 687 wAgEr		https://gitcoin.co/grants/687/wager		https://medium.com/@vijayengineer/wager-a-stablecoin-and-a-defi-portfolio-manager-2bc41eafc4e	false	false	false
+31-Gitcoin Grants:Grant	0x4f2350bc303ca6f01e2777d8c674ac561fdad1de	Grant 552 DeFi Pulse Registry		https://gitcoin.co/grants/552/defi-pulse-registry		https://defipulse.com/	false	false	false
+31-Gitcoin Grants:Grant	0x4fbdad7173ad2e05922a53ffc830831bb75740df	Grant 257 Floatify		https://gitcoin.co/grants/257/floatify			false	false	false
+31-Gitcoin Grants:Grant	0x51535ca2e01985a7b4d6412958b438aa23111bac	Grant 108 Cryptoeconomics Lab		https://gitcoin.co/grants/108/cryptoeconomics-lab			false	false	false
+31-Gitcoin Grants:Grant	0x5213bbcb65969790f5986358fb6e2afe1ea974b1	Grant 814 Movement 4 Black Lives		https://gitcoin.co/grants/814/movement-4-black-lives		https://m4bl.org/	false	false	false
+31-Gitcoin Grants:Grant	0x527621278422fff45a66f7086baeac770cf12b69	Grant 127 Planet A		https://gitcoin.co/grants/127/planet-a			false	false	false
+31-Gitcoin Grants:Grant	0x532e757e5d29023c5f3683b192378d15750dfa99	Grant 113 Gitcoin Moderation Tools		https://gitcoin.co/grants/113/gitcoin-moderation-tools			false	false	false
+31-Gitcoin Grants:Grant	0x54114ca776e856c2aaee1eac8e889d5334d9c439	Grant 626 DappLaunch Web 3 Marketing Messaging Platform		https://gitcoin.co/grants/626/dapplaunch		https://www.dapplaunch.xyz/ https://twitter.com/DappLaunch	false	false	false
+31-Gitcoin Grants:Grant	0x549adf7b383a1645f26a2acfe09c5304b679a532	Grant 902 Local Art Space in Windsor Ontario + Art Gallery In CV		https://gitcoin.co/grants/902/local-art-space-in-windsor-ontario-art-gallery-in		https://twitter.com/Chloethedev	false	false	false
+31-Gitcoin Grants:Grant	0x549d562c37f8d4143d7e161da886e616c11a3ace	Grant 387 Orienteer open source Business Application Platform		https://gitcoin.co/grants/387/orienteer-open-source-business-application-platfor		https://orienteer.org/	false	false	false
+31-Gitcoin Grants:Grant	0x565b93a15d38acd79c120b15432d21e21ed274d6	Grant 820 RabbitHole		https://gitcoin.co/grants/820/rabbithole		https://rabbithole.gg/	false	false	false
+31-Gitcoin Grants:Grant	0x57b353818da50c82ffd59664068a5212eaf090b0	Grant 076 Inflation Funding Working Group		https://gitcoin.co/grants/76/inflation-funding-working-group			false	false	false
+31-Gitcoin Grants:Grant	0x587fb98e404a18503a24cf19abb1887704beb407	Grant 099 Buidler 2		https://gitcoin.co/grants/99/buidler-2			false	false	false
+31-Gitcoin Grants:Grant	0x58f123bd4261ea25955b362be57d89f4b6e7110a	Grant 365 Govrn		https://gitcoin.co/grants/365/govrn		https://www.govrn.io/	false	false	false
+31-Gitcoin Grants:Grant	0x59471d7505c0a351973b24271817fec70b85c5ee	Grant 294 Fiona Kobayashi Blockchain / Neurotech Software Engineer		https://gitcoin.co/grants/294/fiona		https://github.com/fifikobayashi	false	false	false
+31-Gitcoin Grants:Grant	0x59abf56683a63efa7031883604211138b5483516	Grant 555 Loan Shark		https://gitcoin.co/grants/555/loan-shark		https://github.com/blockrockettech/loan-shark	false	false	false
+31-Gitcoin Grants:Grant	0x5a0f2c1d8e563db79ee40f979f6bcd0d27f86f80	Grant 227 Blockspy Metamask Security Plugin		https://gitcoin.co/grants/227/blockspy-metamask-security-plugin			false	false	false
+31-Gitcoin Grants:Grant	0x5a2c31ca6bcb4e594e4a5555399ecba82ba797f9	Grant 241 Zero Collateral		https://gitcoin.co/grants/241/zero-collateral			false	false	false
+31-Gitcoin Grants:Grant	0x5a49fb12f512451819caeb7f4be37e89f0eb0afd	Grant 138 Burner Vote		https://gitcoin.co/grants/138/burner-vote			false	false	false
+31-Gitcoin Grants:Grant	0x5b5dec770db497cd4d9ba840d39a57d90a90027c	Grant 195 Sustain Web3 Sustainers					false	false	false
+31-Gitcoin Grants:Grant	0x5b92bd6c37a1958f95ea1e56b6121a89314cfb66	Grant 337 CREAM: Confidential Reliable Ethereum Anonymous Mixer		https://gitcoin.co/grants/337/cream-confidential-reliable-ethereum-anonymous-mix		https://github.com/couger-inc/cream	false	false	false
+31-Gitcoin Grants:Grant	0x5c930db102c6ebb9cc32fd26f8a274f9493c5c52	Grant 359 Trojan DAO / Inifinite Moloch		https://gitcoin.co/grants/359/trojan-dao-inifinite-moloch		https://www.trojanfoundation.com/	false	false	false
+31-Gitcoin Grants:Grant	0x5cd08940869f68a891756e51269aa27e54e8c4df	Grant 846 Crate Earn the most interest on your DAI		https://gitcoin.co/grants/846/crate-earn-the-most-interest-on-your-dai		https://cr8-is-money.github.io/cr8/#/	false	false	false
+31-Gitcoin Grants:Grant	0x5d509f653d7e4914af9da434bf25c53cd122763d	Grant 041 Yeeth deaneigenmann		https://gitcoin.co/grants/41/yeeth			false	false	false
+31-Gitcoin Grants:Grant	0x5d7d257d97d8a81f51187a77c6dd226fb8424d90	Grant 519 rDAI		https://gitcoin.co/grants/519/rdai-3		https://rdai.money	false	false	false
+31-Gitcoin Grants:Grant	0x5df67bdf139abc95b0b3a5851875a73a5e722c0e	Grant 117 Gitcoin Product Development Grant		https://gitcoin.co/grants/117/gitcoin-product-development-grant			false	false	false
+31-Gitcoin Grants:Grant	0x5f0a5d73c907611d750d1bebd725871f829255e4	Grant 074 Ethmagicians Business Model Ring		https://gitcoin.co/grants/74/ethmagicians-business-model-ring			false	false	false
+31-Gitcoin Grants:Grant	0x60e18f4971077412af2bd0297999093642f28e15	Grant 191 Brightid Universal Proof Of Uniqueness		https://gitcoin.co/grants/191/brightid-universal-proof-of-uniqueness			false	false	false
+31-Gitcoin Grants:Grant	0x614962025820c57d6af5acff56b5879237daf559	Grant 659 Estonia DAO Aragon integration		https://gitcoin.co/grants/659/estonia-dao-aragon-integration		https://estoniadao.org	false	false	false
+31-Gitcoin Grants:Grant	0x618bd991b158ce30ecccbbbee2f559370a6dea1e	Grant 849 polkadot wallet for chinese		https://gitcoin.co/grants/849/polkadot-wallet-for-chinese		https://github.com/dushaobindoudou/apps	false	false	false
+31-Gitcoin Grants:Grant	0x61c315be1fb8e8723d3c20c3c3169a8509b36207	Grant 317 Blockchain Education platform that rewards		https://gitcoin.co/grants/317/blockchain-education-platform-that-rewards		https://www.realechain.com/	false	false	false
+31-Gitcoin Grants:Grant	0x620a3981f796346df02be83fd929758a88078e3c	Grant 000 GitCoin Bot					false	false	false
+31-Gitcoin Grants:Grant	0x643786c04bf98ae360d81ad6681fdf5b95ba1c2b	Grant 114 Daog An Open Ended Decentralized Governance Game		https://gitcoin.co/grants/114/daog-an-open-ended-decentralized-governance-game			false	false	false
+31-Gitcoin Grants:Grant	0x64df823e0f9dbc32fb58d69af32aa5fe3cdd0388	Grant 300 RYO Cloud by AVADO		https://gitcoin.co/grants/300/ryo-cloud-by-avado		https://status.cloud.ava.do	false	false	false
+31-Gitcoin Grants:Grant	0x64e821f43471a2e8d296aa3f151cfed0440b0d91	Grant 606 DeFi Indonesia		https://gitcoin.co/grants/606/defi-indonesia		https://youtu.be/o4dwmflSx0k	false	false	false
+31-Gitcoin Grants:Grant	0x651fbe8c5aa7417a422233e6fa341d265c736a0a	Grant 673 Maker Auctions: Dashboard for MakerDAO auctions		https://gitcoin.co/grants/673/maker-auctions-dashboard-for-makerdao-auctions		https://maker-auctions.io	false	false	false
+31-Gitcoin Grants:Grant	0x6529bd3f7c8b4e3338c5d32347ab8dfe1c65cb37	Grant 507 Support for Freelance Community Management and Contribution		https://gitcoin.co/grants/507/support-for-freelance-community-management-and-con		https://github.com/dadahaha2020?tab=projects	false	false	false
+31-Gitcoin Grants:Grant	0x66251cc92245792f4d69778aaaa2384be109ddeb	Grant 718 DAO A User Owned Social Platform		https://gitcoin.co/grants/718/dao-a-user-owned-social-platform		https://www.chatdao.com	false	false	false
+31-Gitcoin Grants:Grant	0x662d5d79849113a5403af776210307a7c82a5267	Grant 245 Stackbrief					false	false	false
+31-Gitcoin Grants:Grant	0x663d3947f03ef5b387992b880ac85940057c13e3	Grant 237 Week In Ethereum News evanvannesseth		https://gitcoin.co/grants/237/week-in-ethereum-news			false	false	false
+31-Gitcoin Grants:Grant	0x66aa8bee5366b6b48811ae0dac9fe5e1eefe1621	Grant 049 Blockchain Education Network		https://gitcoin.co/grants/49/blockchain-education-network			false	false	false
+31-Gitcoin Grants:Grant	0x67b7ad376112e052227b36feaff7d600cd48b366	Grant 755 Bliqin		https://gitcoin.co/grants/755/bliqin		http://www.bliqin.com	false	false	false
+31-Gitcoin Grants:Grant	0x68085e7f88e90fa9247489c83fab30b177ebccb3	Grant 030 Grant 082 Official Progpow Technical Audit Funding		https://gitcoin.co/grants/30/ethereum-all-core-devs-community-project-managem-2			false	false	false
+31-Gitcoin Grants:Grant	0x6935e2d39536e0795dbb66428bc5bd6aec32f7fe	Grant 390 Wallet Notify A standardized way of sending push notifications to Ethereum wallets		https://gitcoin.co/grants/390/wallet-notify-a-standardized-way-of-sending-push-n			false	false	false
+31-Gitcoin Grants:Grant	0x694c7ca85584d550b36c044e10d3a7b30d85e7f7	Grant 615 A buidl sorority that supports dope projects made by dope women/adjacent/allies/cis/nonbinary/insert PC category		https://gitcoin.co/grants/615/a-buidl-sorority-that-supports-dope-projects-made		https://twitter.com/metagammadelta	false	false	false
+31-Gitcoin Grants:Grant	0x69cac784d1f0387eac5f6cac903865ea8804ed38	Grant 278 I Will Code Review In Jstypescript Swift Or Java		https://gitcoin.co/grants/278/i-will-code-review-in-jstypescript-swift-or-java			false	false	false
+31-Gitcoin Grants:Grant	0x6aced29ff160fd127eac34cf61cf8e072ce888be	Grant 573 Rapagram Mint tracks. Flow for props.		https://gitcoin.co/grants/573/rapagram-mint-tracks-flow-for-props		http://rapagram.eth.link/	false	false	false
+31-Gitcoin Grants:Grant	0x6b3999bb710e92701421c63ae4952301bef0ec98	Grant 215 David Hoffman Independent Content Creator					false	false	false
+31-Gitcoin Grants:Grant	0x6cc55c39f51a2da7d2db5f2c4aad133eb1418c4f	Grant 102 Nimbus		https://gitcoin.co/grants/102/nimbus			false	false	false
+31-Gitcoin Grants:Grant	0x6dec00d2899b3caf00c72452407eb727b7298c7f	Grant 164 Reportaid Grant 167 Provenator 2		https://gitcoin.co/grants/164/reportaid			false	false	false
+31-Gitcoin Grants:Grant	0x6e4246b05d45440e1432a8fa4f5271cfb8c28246	Grant 201 V2Eth ToThursday					false	false	false
+31-Gitcoin Grants:Grant	0x6e5e7d5dcad928c814caf7af7b0e706049a36629	Grant 581 Query Ethereum		https://gitcoin.co/grants/581/query-ethereum		https://queryethereum.com	false	false	false
+31-Gitcoin Grants:Grant	0x6eaa370adb52be8f86fef2a4ee86c4eca0f2f320	Grant 540 Ethereum Swarm		https://gitcoin.co/grants/540/ethereum-swarm		https://github.com/ethersphere	false	false	false
+31-Gitcoin Grants:Grant	0x6f00ce7253bfd3a5a1c307b5e13814bf3433c72f	Grant 898 Genie challenges reward platform		https://gitcoin.co/grants/898/genie-challenges-reward-platform		https://app.thegenie.xyz/	false	false	false
+31-Gitcoin Grants:Grant	0x6f620ba7907a3d9a6dda9821eeb4e59b3f69c367	Grant 864 Dutch Swap Digital Dutch Auctions for Everyone				https://gitcoin.co/grants/864/dutch-swap-digital-dutch-auctions-for-everyone	false	false	false
+31-Gitcoin Grants:Grant	0x6f7d7d68c3eed4df81cf5f97582deef8abc51533	Grant 585 InsureNET Blockchain Insurance Platform Dashboard		https://gitcoin.co/grants/585/insurenet-blockchain-insurance-platform-dashboard		https://insurenet-web.netlify.com	false	false	false
+31-Gitcoin Grants:Grant	0x6fb8479a3bbb7a4ed8395af47916d9a51b7ba038	Grant 310 AM Winn Community Guild Digital Asset Fundraiser		https://gitcoin.co/grants/310/am-winn-community-guild-digital-asset-fundraiser		https://www.amwwaldorf.org/	false	false	false
+31-Gitcoin Grants:Grant	0x7030b43e821ba34124915ba65b90dbda7a9e7d09	Grant 347 CryptoScamDB		https://gitcoin.co/grants/347/cryptoscamdb		https://cryptoscamdb.org	false	false	false
+31-Gitcoin Grants:Grant	0x7056e70a5ca249ba88e9550eb22caec4c985bb8e	Grant 022 Fuzz Geth And Parity For Evm Consensus Bugs		https://gitcoin.co/grants/22/fuzz-geth-and-parity-for-evm-consensus-bugs-2			false	false	false
+31-Gitcoin Grants:Grant	0x7058decc644317062f90525f4c1489aaf456e6b3	Grant 363 Dune Analytics		https://gitcoin.co/grants/363/dune-analytics		https://www.duneanalytics.com	false	false	false
+31-Gitcoin Grants:Grant	0x7092fdbc448698461a3ae98488c35568f368e0ad	Grant 339 OpenWallet		https://gitcoin.co/grants/339/openwallet		https://github.com/Abhimanyu121/OpenWallet/	false	false	false
+31-Gitcoin Grants:Grant	0x70b144972c5ef6cb941a5379240b74239c418cd4	Grant 596 TypeChain		https://gitcoin.co/grants/596/typechain		https://github.com/ethereum-ts/typechain	false	false	false
+31-Gitcoin Grants:Grant	0x70ccbe10f980d80b7ebaab7d2e3a73e87d67b775	Grant 200 Vyper Smart Contract Language 2		https://gitcoin.co/grants/200/vyper-smart-contract-language-2			false	false	false
+31-Gitcoin Grants:Grant	0x70e47c843e0f6ab0991a3189c28f2957eb6d3842	Grant 137 Nimbus 2		https://gitcoin.co/grants/137/nimbus-2			false	false	false
+31-Gitcoin Grants:Grant	0x71765388bdde1079ec83f0448242469d69ae93f2	Grant 614 Alfred Crypto Estate Planner		https://gitcoin.co/grants/614/alfred-the-award-winning-crypto-estate-planner			false	false	false
+31-Gitcoin Grants:Grant	0x7205a1b9c5cf6494ba2ceb5adcca831c05536912	Grant 344 Provenance Authenticity Validation on Ethereum		https://gitcoin.co/grants/344/provenance-authenticity-validation-app		https://CryptoKaiju.io	false	false	false
+31-Gitcoin Grants:Grant	0x723cc8c47a395af22f84c54c58dd3f573253890d	Grant 829 CollabLand		https://gitcoin.co/grants/829/collabland		http://collab.land/	false	false	false
+31-Gitcoin Grants:Grant	0x726830dbb3e6a7f5009635e61cf4056d11c2dbf7	Grant 107 Secure Scuttlebutt Ethereum Fusion		https://gitcoin.co/grants/107/secure-scuttlebutt-ethereum-fusion			false	false	false
+31-Gitcoin Grants:Grant	0x7293edfbe890854cb698119cc31441b063f44878	Grant 822 LUKSO The Blockchain For New Digital Lifestyle		https://gitcoin.co/grants/822/lukso-the-blockchain-for-new-digital-lifestyle		https://www.lukso.network/	false	false	false
+31-Gitcoin Grants:Grant	0x72b77d99b460176adc900c05f6bbb69c332eb4c2	Grant 029 Zokrates		https://gitcoin.co/grants/29/zokrates			false	false	false
+31-Gitcoin Grants:Grant	0x7415efd9d908281ea0279c49a6c23011d9d9a0a4	Grant 331 Circles UBI		https://gitcoin.co/grants/331/circles-ubi		https://joincircles.net/	false	false	false
+31-Gitcoin Grants:Grant	0x74d8967e812de34702ecd3d453a44bf37440b10b	Grant 202 Vocdoni Decentralized Anonymous Voting		https://gitcoin.co/grants/202/vocdoni-decentralized-anonymous-voting			false	false	false
+31-Gitcoin Grants:Grant	0x74ef70357ef21bad2b45795679f2727c48d501ed	Grant 154 Decentralized Flexible Organization					false	false	false
+31-Gitcoin Grants:Grant	0x74fee6bbd1dd965ea90638faf37fd4a861f47178	Grant 731 Gardes Index		https://gitcoin.co/grants/731/gardes-index		https://gardesindex.netlify.app/	false	false	false
+31-Gitcoin Grants:Grant	0x7538b8240a93b99de5c19976e695931a96e3cb13	Grant 736 GoTrace		https://gitcoin.co/grants/736/gotrace		https://github.com/mara-schmiedt/GoTrace	false	false	false
+31-Gitcoin Grants:Grant	0x7541e31ea1635e3c6e927447e5c9a48b60ac5c8c	Grant 192 Unikeys		https://gitcoin.co/grants/192/unikeys			false	false	false
+31-Gitcoin Grants:Grant	0x758ba0f64f9498996368fcd7696cd962bc19fe87	Grant 824 A Platform to Catalyze Achievement of Legislation Objectives		https://gitcoin.co/grants/824/a-platform-to-catalyze-achievement-of-legislation		https://crowdfundedpolitics.com	false	false	false
+31-Gitcoin Grants:Grant	0x7601471df9abd0962d0201228aa30a1c569e8d51	Grant 410 Dappertite™ User Research Lab		https://gitcoin.co/grants/410/dappertitetm-user-research-lab		https://gitcoin.co/selfmadeheroes	false	false	false
+31-Gitcoin Grants:Grant	0x7624cf3a128e5801d69a2ea0a13a74a6b3ebad4a	Grant 196 Ethereum Dao Game					false	false	false
+31-Gitcoin Grants:Grant	0x7710c1a75b9a9d67abc493a08ca6507dc42c6a11	Grant 216 Wildcardsworld		https://gitcoin.co/grants/216/wildcardsworld			false	false	false
+31-Gitcoin Grants:Grant	0x779e782b556e38063e0390cf10a25f63d05cabdc	Grant 260 Voyager Podcast					false	false	false
+31-Gitcoin Grants:Grant	0x77b1356b297de2364187a20c30e807ae143d8fa1	Grant 801 Multisend.org		https://gitcoin.co/grants/801/multisendorg		https://multisend.org/	false	false	false
+31-Gitcoin Grants:Grant	0x77c14e32126690eb122cde31f94178c267b12100	Grant 441 BEACH		https://gitcoin.co/grants/441/beach		https://sites.google.com/view/mix-litoral/beach	false	false	false
+31-Gitcoin Grants:Grant	0x78040ab06e05f59fd78ca7367cbf4e95069cac47	Grant 020 Burner Wallet		https://gitcoin.co/grants/20/burner-wallet			false	false	false
+31-Gitcoin Grants:Grant	0x782696546364c0d12e7d7c7207fa5bbda14d2dd8	Grant 819 Dapptivism		https://gitcoin.co/grants/819/dapptivism		https://dapptivism.com/	false	false	false
+31-Gitcoin Grants:Grant	0x7859821024e633c5dc8a4fcf86fc52e7720ce525	Grant 087 Kitsune Wallet		https://gitcoin.co/grants/87/kitsune-wallet			false	false	false
+31-Gitcoin Grants:Grant	0x7870870fb345417ac2c589b9baf280ce8019e8d7	Grant 116 Africa Blockchain Developer Program		https://gitcoin.co/grants/116/africa-blockchain-developer-program			false	false	false
+31-Gitcoin Grants:Grant	0x78f3c73f5500335aac51e4c2a79555d176b279da	Grant 668 FightPandemics		https://gitcoin.co/grants/668/fightpandemics		https://fightpandemics.com/	false	false	false
+31-Gitcoin Grants:Grant	0x78f6af57f6885fb2c38b0aeb8aaa2a4636127fd9	Grant 586 Decentralised Finance Working Group		https://gitcoin.co/grants/586/decentralised-finance-working-group		https://www.terrella.io/post/decentralised-finance-group	false	false	false
+31-Gitcoin Grants:Grant	0x7b5a24f14c4086d34bfd805e6237229596e8235c	Grant 360 TheBlockchainCircle		https://gitcoin.co/grants/360/theblockchaincircle		https://theblockchaincircle.org/	false	false	false
+31-Gitcoin Grants:Grant	0x7b93102844e7ef0b0a4bb1e38484ad7e2ac98c19	Grant 206 Poplocker		https://gitcoin.co/grants/206/poplocker			false	false	false
+31-Gitcoin Grants:Grant	0x7ba18d8d4b0e4eb06a720af2bec29603078c806b	Grant 468 ETHPlanet		https://gitcoin.co/grants/468/ethplanet		https://www.ethplanet.org/	false	false	false
+31-Gitcoin Grants:Grant	0x7c424d4b753185c6e91e0cdd5fd98076198c51b2	Grant 848 arablockchain		https://gitcoin.co/grants/848/arablockchain		https://arablockchains.wordpress.com/	false	false	false
+31-Gitcoin Grants:Grant	0x7d1675dc635959b26f61e03637599c12c7e84fae	Grant 193 Tribute		https://gitcoin.co/grants/193/tribute			false	false	false
+31-Gitcoin Grants:Grant	0x7d3e2d29c0f77d35e470942e10aed8f3a6a596fe	Grant 232 Raven		https://gitcoin.co/grants/232/raven			false	false	false
+31-Gitcoin Grants:Grant	0x7d888a9036b5a96f77b433e65b9be1b122f8a499	Grant 183 Tasit Native Mobile Ethereum Dapps		https://gitcoin.co/grants/183/tasit-native-mobile-ethereum-dapps			false	false	false
+31-Gitcoin Grants:Grant	0x7e30fb962f951ef78d901865f87dd036fc5aa946	Grant 406 and Grant 445 Avrit Blockchain and Shivarthu Democracy		https://gitcoin.co/grants/406/avrit-the-blockchain-based-decentralized-education and https://gitcoin.co/grants/445/shivarthu-democracy-the-blockchain-based-decentral		https://avrit.reaudito.com/ and https://shivarthu.reaudito.com/	false	false	false
+31-Gitcoin Grants:Grant	0x7e897000e80787653c6a7a2d20174a4225d89753	Grant 129 Grant 283 Deora Enabling The Next Step In Human Coordination		https://gitcoin.co/grants/283/deora-enabling-the-next-step-in-human-coordination			false	false	false
+31-Gitcoin Grants:Grant	0x7f1a44a4b572d2f700d0b8ce659fd5ef95aaad04	Grant 132 The Dat Protocol		https://gitcoin.co/grants/132/the-dat-protocol			false	false	false
+31-Gitcoin Grants:Grant	0x7f1c9feb3a616cbda1ff474cfda802d8840df2af	Grant 826 0xChan Design an Ethereum Crypto Waifu		https://gitcoin.co/grants/826/0x-chan-design-an-ethereum-crypto-waifu		https://www.patreon.com/rootdraws	false	false	false
+31-Gitcoin Grants:Grant	0x806919ffb0a4ff329dd19356ad74e0425f3182cb	Grant 447 Spork / gitjob.com		https://gitcoin.co/grants/447/spork-git-jobcom		https://github.com/SporkHubr	false	false	false
+31-Gitcoin Grants:Grant	0x8110d1d04ac316fdcace8f24fd60c86b810ab15a	Grant 539 The Commons Stack: Iteration 0		https://gitcoin.co/grants/539/the-commons-stack-iteration-0		https://commonsstack.org/	false	false	false
+31-Gitcoin Grants:Grant	0x818ff73a5d881c27a945be944973156c01141232	Grant 341 KnownOrigin.io DAO		https://gitcoin.co/grants/341/knownoriginio-art-dao		https://knownorigin.io	false	false	false
+31-Gitcoin Grants:Grant	0x81aaa9a7a8358cc2971b9b8de72acce6d7862bc8	Grant 226 Civitas		https://gitcoin.co/grants/226/civitas			false	false	false
+31-Gitcoin Grants:Grant	0x81c7950f00aa928663acd887b7df1534e7196ac9	Grant 724 Bityond		https://gitcoin.co/grants/724/bityond		https://demo.bityond.com	false	false	false
+31-Gitcoin Grants:Grant	0x8296df9a01299ee0a1ae9e5939f1a71998ea26fa	Grant 775 Kickback		https://gitcoin.co/grants/775/kickback		https://kickback.events	false	false	false
+31-Gitcoin Grants:Grant	0x830ad555fce0547782e14d67d22002082916e660	Grant 414 Nito.cash		https://gitcoin.co/grants/414/nitocash		https://nito.cash	false	false	false
+31-Gitcoin Grants:Grant	0x8400077113fabeaa5a5ad8742cff50cd88d8ce8a	Grant 827 Web 3.0 Arabic		https://gitcoin.co/grants/827/web-30-arabic		https://www.youtube.com/channel/UCkpiIy9Ud9_0iCUQy0P1LSQ	false	false	false
+31-Gitcoin Grants:Grant	0x84186c825d1c2bb28ae8b5a8c5ad265d39f45d74	Grant 330 Rogue Idle: A FreetoPlay Idle Game		https://gitcoin.co/grants/330/rogueexchange		https://discord.gg/KxsGpz	false	false	false
+31-Gitcoin Grants:Grant	0x842b87e0f5dd45ab5ff972b4d71f238ffad8ad3d	Grant 368 Akasha Hub Barcelona		https://gitcoin.co/grants/368/akasha-hub-barcelona		https://akasha.org/hub-bcn/	false	false	false
+31-Gitcoin Grants:Grant	0x852ed0af6e186c987727ba9285657688abde38cb	Grant 628 Arweave makes information permanence sustainable.		https://gitcoin.co/grants/628/arweave-makes-information-permanence-sustainable		https://www.arweave.org	false	false	false
+31-Gitcoin Grants:Grant	0x8554cfdb4e1830e541a6466b5b915ea74dbbee80	Grant 770 liquiDefi		https://gitcoin.co/grants/770/liquidefi		https://github.com/rkalis/liquidefi	false	false	false
+31-Gitcoin Grants:Grant	0x85cab7143ff3c01b93e88f5b017692374bb939c2	Grant 223 Ethereum Magicians Magician's Registration					false	false	false
+31-Gitcoin Grants:Grant	0x85f5a4e1fc4f44a014b940a224dde22d6e73f2dc	Grant 667 readaratus: A dynamic book reading system for computers		https://gitcoin.co/grants/667/readaratus-a-dynamic-book-reading-system-for-compu		https://readaratus.ir	false	false	false
+31-Gitcoin Grants:Grant	0x863199c0a7eb5c6e70e0889a93242445ee998cf4	Grant 762 Community Based Audit		https://gitcoin.co/grants/762/community-based-audit		https://github.com/SmartAuditNetwork	false	false	false
+31-Gitcoin Grants:Grant	0x8639d3feef6f7ca0d7e20c51aa377cc13c243b29	Grant 808 CoBox Cooperative Cloud		https://gitcoin.co/grants/808/cobox-cooperative-cloud		https://cobox.cloud	false	false	false
+31-Gitcoin Grants:Grant	0x8651cf790fc894512a726a402c9caaa3687628f0	Grant 218 Ens Updater		https://gitcoin.co/grants/218/ens-updater			false	false	false
+31-Gitcoin Grants:Grant	0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88	Grant 203 Metacartel Grant 204 Wizards Of Dapps Podcast pet3rpan_					false	false	false
+31-Gitcoin Grants:Grant	0x8688a84fcfd84d8f78020d0fc0b35987cc58911f	Grant 248 Web3 React 2		https://gitcoin.co/grants/248/web3-react-2			false	false	false
+31-Gitcoin Grants:Grant	0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9	Grant 854 BlockScout Blockchain Explorer		https://gitcoin.co/grants/854/blockscout-blockchain-explorer		https://docs.blockscout.com/	false	false	false
+31-Gitcoin Grants:Grant	0x86fd6dd41bad636b5b3b9228bc5642fa0df392e8	Grant 579 The Trojan DAO		https://gitcoin.co/grants/579/the-trojan-dao		https://www.trojanfoundation.com/	false	false	false
+31-Gitcoin Grants:Grant	0x89d1fec16ba1c8aebc7866263eb4ca2d8bd8eec4	Grant 728 DEFI Security Matching Round		https://gitcoin.co/grants/728/defi-security-matching-round		https://twitter.com/owocki/status/1252002447515475969	false	false	false
+31-Gitcoin Grants:Grant	0x89eeaf6cef929b2b35bfa7ddd37390c6d3c86500	Grant 156 Zero Knowledge Education					false	false	false
+31-Gitcoin Grants:Grant	0x8a970573f88dbc7b69dfed2ba193c98c2d5d8314	Grant 101 Geon App Augmented Reality App Leveraging Poa		https://gitcoin.co/grants/101/geon-app-augmented-reality-app-leveraging-poa-core			false	false	false
+31-Gitcoin Grants:Grant	0x8b3765eda5207fb21690874b722ae276b96260e0	Grant 295 Gelato An automation protocol for Ethereum		https://gitcoin.co/grants/295/gelato-if-this-then-that-for-ethereum		https://github.com/gelatodigital/gelato	false	false	false
+31-Gitcoin Grants:Grant	0x8ba1f109551bd432803012645ac136ddd64dba72	Grant 013 Ethersjs Complete Simple And Tiny		https://gitcoin.co/grants/13/ethersjs-complete-simple-and-tiny-2			false	false	false
+31-Gitcoin Grants:Grant	0x8bfbb529a9e85fdc4b70a4fcdc0d68bb298b8816	Grant 224 Turbo Geth alexeyakhunov		https://gitcoin.co/grants/224/turbo-geth?tab=description			false	false	false
+31-Gitcoin Grants:Grant	0x8c4ced2279cb76e043c5c6ce9882a60e91018886	Grant 708 Building Ethereum Together		https://gitcoin.co/grants/708/building-ethereum-together		https://www.bitsbeat.com/	false	false	false
+31-Gitcoin Grants:Grant	0x8e7a47730a31caae3428041324060322336886cc	Grant 671 Private Dapps		https://gitcoin.co/grants/671/private-dapps		http://privatedapps.surge.sh/	false	false	false
+31-Gitcoin Grants:Grant	0x8f684ad5dc8237960a4661381022ae8030a5cd31	Grant 056 Training 1000 Ethereum Developers For Free In 2019		https://gitcoin.co/grants/56/training-1000-ethereum-developers-for-free-in-2019			false	false	false
+31-Gitcoin Grants:Grant	0x904065ba663879deb7e5f902220e7db97cbf04af	Grant 681 FlowStake Activity Staking Blockchain Network		https://gitcoin.co/grants/681/flowstake-activity-staking-blockchain-network		https://flowstake.webflow.io	false	false	false
+31-Gitcoin Grants:Grant	0x908630dfde60552daf5291c7081cf2fd475cb368	Grant 765 UniswapEX v2		https://gitcoin.co/grants/765/uniswapex-v2		https://uniswapex.io/	false	false	false
+31-Gitcoin Grants:Grant	0x910119d96fcc68fc898a02b07b3a6316992af800	Grant 153 Mailchain Email Like Messaging And Attachment Capa robdefeo		https://gitcoin.co/grants/153/mailchain-email-like-messaging-and-attachment-capa			false	false	false
+31-Gitcoin Grants:Grant	0x9188df10a49c1bfd4a098efeefd231be137dcec2	Grant 115 Codefund Development		https://gitcoin.co/grants/115/codefund-development			false	false	false
+31-Gitcoin Grants:Grant	0x91bd7429bfb4731d13e2a431dd729f49b5760b03	Grant 145 Burner Wallet 2 Burner Factory		https://gitcoin.co/grants/145/burner-wallet-2-burner-factory			false	false	false
+31-Gitcoin Grants:Grant	0x91dbd5e72b1331447a40932bf16d140cf4638324	Grant 055 Plasma By Kyokan Secure Low Fee Instant Payments		https://gitcoin.co/grants/55/plasma-by-kyokan-secure-low-fee-instant-payments			false	false	false
+31-Gitcoin Grants:Grant	0x924b575917f822e32e88b7e7171fe0c00c70f401	Grant 175 Idea Markets		https://gitcoin.co/grants/175/idea-markets			false	false	false
+31-Gitcoin Grants:Grant	0x934b510d4c9103e6a87aef13b816fb080286d649	Grant 159 Maskbook Surrender No Privacy To Youknowwho Eg Fac		https://gitcoin.co/grants/159/maskbook-surrender-no-privacy-to-youknowwho-eg-fac			false	false	false
+31-Gitcoin Grants:Grant	0x947f8a49640b4770a8c7fe3c1e69ffc974295448	Grant 172 Zeropool		https://gitcoin.co/grants/172/zeropool			false	false	false
+31-Gitcoin Grants:Grant	0x9492510bbcb93b6992d8b7bb67888558e12dcac4	Grant 221 Dappy By One Click Dapp		https://gitcoin.co/grants/221/dappy-by-one-click-dapp			false	false	false
+31-Gitcoin Grants:Grant	0x9531c059098e3d194ff87febb587ab07b30b1306	Grant 149 Rotki		https://gitcoin.co/grants/149/rotki			false	false	false
+31-Gitcoin Grants:Grant	0x961aa96febee5465149a0787b03bfa14d8e9033f	Grant 032 Vipnode		https://gitcoin.co/grants/32/vipnode			false	false	false
+31-Gitcoin Grants:Grant	0x965e1ab07596bfc899ded753b8d85bc60eb16c4b	Grant 705 White Box FAPKC		https://gitcoin.co/grants/705/white-box-fapkc		https://github.com/haael/white-box-fapkc	false	false	false
+31-Gitcoin Grants:Grant	0x96ff2a883de9bb8a6276e97443d46305adc12b40	Grant 836 The Bail Project		https://gitcoin.co/grants/836/the-bail-project		https://bailproject.org/	false	false	false
+31-Gitcoin Grants:Grant	0x97103fda00a2b47eac669568063c00e65866a633	Grant 307 lexDAO Standardize Legal Goods on Ethereum in 2020		https://gitcoin.co/grants/307/lexdao-standardize-legal-goods-on-ethereum-in-2020		https://github.com/lexDAO	false	false	false
+31-Gitcoin Grants:Grant	0x978e40d338221bae7fb5f39ac5ee843650f5e847	Grant 832 Next Gen Blockchain and AI based Job Platform		https://gitcoin.co/grants/832/next-gen-blockchain-and-ai-based-job-platform		https://ispolink.com/	false	false	false
+31-Gitcoin Grants:Grant	0x99126d641ba3924c8af4dca4e3b2c33a41718913	Grant 599 Proof of Humanity		https://gitcoin.co/grants/599/proof-of-humanity-3		https://proofofhumanity.xyz/	false	false	false
+31-Gitcoin Grants:Grant	0x993b9199a3359ba89ed578a17e06821fede86bf9	Grant 100 Eth Based Games		https://gitcoin.co/grants/100/eth-based-games			false	false	false
+31-Gitcoin Grants:Grant	0x9a4de46e566b7d474d14def31aa349abf2fc6993	Grant 036 Molochdao		https://gitcoin.co/grants/36/molochdao			false	false	false
+31-Gitcoin Grants:Grant	0x9a94ac82b17e67f7dff81912de68eb74ca20e6c3	Grant 229 Curadai A Defi Based Stable Coin For Curacao		https://gitcoin.co/grants/229/curadai-a-defi-based-stable-coin-for-curacao			false	false	false
+31-Gitcoin Grants:Grant	0x9b984d5a03980d8dc0a24506c968465424c81dbe	Grant 024 Prysm By Prysmatic Labs		https://gitcoin.co/grants/24/prysm-by-prysmatic-labs			false	false	false
+31-Gitcoin Grants:Grant	0x9d49416900c4fe2aafecdaad36ae4042cfbcdcce	Grant 640 Platform for global music producers with a focus on KPop		https://gitcoin.co/grants/640/platform-for-global-music-producers-with-a-focus-o		https://www.k-tune.org/	false	false	false
+31-Gitcoin Grants:Grant	0x9d4a1509da007ecb8b80d5eee9714cbe5b5b3167	Grant 234 Decentralized Infrastructure Solutions Dis					false	false	false
+31-Gitcoin Grants:Grant	0x9d4e94db689bc471e45b0a18b7bda36fccec9c3b	Grant 258 Beaconchain Open Source Eth2 Blockchain Explorer		https://gitcoin.co/grants/258/beaconchain-open-source-eth2-blockchain-explorer			false	false	false
+31-Gitcoin Grants:Grant	0x9ef0192aeab52598aca2cfd4dcf0a5178f2f11cf	Grant 462 saveDAI		https://gitcoin.co/grants/462/savedai		http://savedai.xyz	false	false	false
+31-Gitcoin Grants:Grant	0x9eff806ba579ee2bd51bd35b63cd19f6bd6dd0bd	Grant 593 Etherlime		https://gitcoin.co/grants/593/etherlime		https://etherlime.gitbook.io/	false	false	false
+31-Gitcoin Grants:Grant	0x9f4fdb0a707ee336118b73cfc97ec5a453ee9117	Grant 400 GEO Protocol		https://gitcoin.co/grants/400/geo-protocol		https://geoprotocol.io/	false	false	false
+31-Gitcoin Grants:Grant	0x9fd0c742d81b6f08817f3ef11d09cb4a9f54ee5f	Grant 233 Ethereumetl medvedev1088		https://gitcoin.co/grants/233/ethereumetl			false	false	false
+31-Gitcoin Grants:Grant	0x9ffd0a5b5438b95861167422e745d34d151bcc3b	Grant 749 Mass Adoption LLC.		https://gitcoin.co/grants/749/mass-adoption-llc		https://massadoptionllc.wixsite.com/website-3	false	false	false
+31-Gitcoin Grants:Grant	0xa0527ba80d811cd45d452481caf902dfd6f5b8c2	Grant 277 Commons Simulator Modeling Sustainable Funding For		https://gitcoin.co/grants/277/commons-simulator-modeling-sustainable-funding-for			false	false	false
+31-Gitcoin Grants:Grant	0xa07b3c21ed817f94149231a431d3d4b421648121	Grant 043 Fission Codes		https://gitcoin.co/grants/43/fission-codes			false	false	false
+31-Gitcoin Grants:Grant	0xa1381b40e0a6b91814f77de19a7ad2cb21753184	Grant 334 Interstate Network EVM optimistic rollup		https://gitcoin.co/grants/334/interstate-network-evm-generic-optimistic-rollups		https://www.interstate.network	false	false	false
+31-Gitcoin Grants:Grant	0xa19fcdad77c1f0fd184689aca88babcf68010347	Grant 040 Ethhub		https://gitcoin.co/grants/40/ethhub			false	false	false
+31-Gitcoin Grants:Grant	0xa1b02d8c67b0fdcf4e379855868deb470e169cfb	Grant 169 Alice 34		https://gitcoin.co/grants/169/alice			false	false	false
+31-Gitcoin Grants:Grant	0xa1c6845993641b777750e7db2671d9fe65059ae1	Grant 799 Telegram Totality		https://gitcoin.co/grants/799/telegram-totality		https://www.youtube.com/watch?v=EwsxafL7oUw	false	false	false
+31-Gitcoin Grants:Grant	0xa357c5dc01d8ab4f3af519b0537468391e3e0976	Grant 524 clr.fund		https://gitcoin.co/grants/524/clrfund		https://clr.fund	false	false	false
+31-Gitcoin Grants:Grant	0xa38445311ccd04a54183cdd347e793f4d548df3f	Grant 124 Notus basselstine		https://gitcoin.co/grants/124/notus			false	false	false
+31-Gitcoin Grants:Grant	0xa4c4dd9dc4f59a264311a306ab5da2d9ce2cc3cb	Grant 847 Dapp University		https://gitcoin.co/grants/847/dapp-university		https://www.dappuniversity.com/	false	false	false
+31-Gitcoin Grants:Grant	0xa603499e8a0ec43590a8870e0e201cda2c5de017	Grant 778 Blockchain Research OpenSource Research for Everyone		https://gitcoin.co/grants/778/blockchain-research-open-source-research-for-ever		https://blockchainresearch.in	false	false	false
+31-Gitcoin Grants:Grant	0xa6528eb6737f42180acbb8cb5dd44f66d0c17141	Grant 693 3D Reality Bridging Protocol		https://gitcoin.co/grants/693/3d-reality-bridging-protocol		https://3drbp.com	false	false	false
+31-Gitcoin Grants:Grant	0xa655c36eba808148497aed8bacd1c8cf6c59335c	Grant 772 PIXEL		https://gitcoin.co/grants/772/pixel		https://opensea.io/accounts/PIXEL?category=pixelchain	false	false	false
+31-Gitcoin Grants:Grant	0xa73557c2749fea5a185eae5facf9ef310c76ea6a	Grant 557 Blazar stable lending protocol		https://gitcoin.co/grants/557/blazar-stable-lending-protocol		https://daj.kubawo.now.sh/#/	false	false	false
+31-Gitcoin Grants:Grant	0xa735cf11ed1228feb7c7bb18673a868455ffb16f	Grant 821 Umbra Privacy Preserving Stealth Payments		https://gitcoin.co/grants/821/umbra-privacy-preserving-stealth-payments		https://github.com/ScopeLift/umbra-protocol	false	false	false
+31-Gitcoin Grants:Grant	0xa78edd98d7ab5caca5236fc3999d4ee9868795fe	Grant 739 S.A.G.E.		https://gitcoin.co/grants/739/sage		https://open-sage.gitbook.io/s-a-g-e/	false	false	false
+31-Gitcoin Grants:Grant	0xa84944735b66e957fe385567dcc85975022fe68a	Grant 111 Research Grant Swarm Scraper For Verified Smart Co		https://gitcoin.co/grants/111/research-grant-swarm-scraper-for-verified-smart-co			false	false	false
+31-Gitcoin Grants:Grant	0xa8a4912938549d50ef3e7c698c890e18d73408ee	Grant 543 The MoonMath Manual to zkSNARKs		https://gitcoin.co/grants/543/the-moonmath-manual-to-zk-snarks		https://leastauthority.com/	false	false	false
+31-Gitcoin Grants:Grant	0xabe26faee77419897090bc4c5a112d463443a662	Grant 818 Metis Protocol A governance and collaboration implementation framework for DAOs		https://gitcoin.co/grants/818/metis-protocol-a-governance-and-collaboration-implementation-framework-for-daos		https://metislab.io	false	false	false
+31-Gitcoin Grants:Grant	0xac2a01c551401340e403dca79fb8b3e3f8d6d94a	Grant 610 ParaSwap.io The fastest liquidity aggregator		https://gitcoin.co/grants/610/paraswap		https://ParaSwap.io	false	false	false
+31-Gitcoin Grants:Grant	0xaf2e8f2cd87404d268727284919de164f224a112	Grant 695 Atlas Futures		https://gitcoin.co/grants/695/atlas-futures		http://www.atlas-futures.com/	false	false	false
+31-Gitcoin Grants:Grant	0xafaba30769374ea0f971300de79c62bf94b464d5	Grant 170 Pisa Financially Accountable Responder		https://gitcoin.co/grants/170/pisa-financially-accountable-responder			false	false	false
+31-Gitcoin Grants:Grant	0xafdd1eb2511cd891acf2bff82dabf47e0c914d24	Grant 546 1UP WORLD		https://gitcoin.co/grants/546/1up-world		https://1up.world/	false	false	false
+31-Gitcoin Grants:Grant	0xb2e7e101b8248021be72e76890ea24cfad967aec	Grant 230 Open Funding		https://gitcoin.co/grants/230/open-funding			false	false	false
+31-Gitcoin Grants:Grant	0xb30db235c948987487f9b2e67d65530c71fcdfdd	Grant 789 The Popup Season Two		https://gitcoin.co/grants/789/the-popup-season-two		https://www.daorecords.org/s2	false	false	false
+31-Gitcoin Grants:Grant	0xb359e4844a46258eb98eab48428365c699b1ba67	Grant 382 NutBerry		https://gitcoin.co/grants/382/nutberry		https://github.com/NutBerry	false	false	false
+31-Gitcoin Grants:Grant	0xb3856883886f7ebc9a3b78116aecd368d0092166	Grant 623 Gitcoin developer grant iamonuwa		https://gitcoin.co/grants/623/gitcoin-developer-grant-iamonuwa		https://gitcoin.co/iamonuwa	false	false	false
+31-Gitcoin Grants:Grant	0xb391ae8fc7483770930d1deab5a898206e9cdb3f	Grant 513 Connexion		https://gitcoin.co/grants/513/connexion		https://devpost.com/software/connexion-vy3a9c	false	false	false
+31-Gitcoin Grants:Grant	0xb422e46540153ddaaccd8f5e899893fc53ab77b8	Grant 338 2key Network Labs		https://gitcoin.co/grants/338/2key-network-labs		https://2key.network	false	false	false
+31-Gitcoin Grants:Grant	0xb4bc0f815f56e052f24509a7efd93af230cc3062	Grant 450 Smart Contract Registry		https://gitcoin.co/grants/450/smart-contract-registry		https://www.haveibeenexploited.com	false	false	false
+31-Gitcoin Grants:Grant	0xb50685c25485ca8c520f5286bbbf1d3f216d6989	Grant 796 InstCrypt Meta Transaction or Gas less wallet		https://gitcoin.co/grants/796/instcrypt-meta-transaction-or-gas-less-wallet		https://github.com/sunnyRK/Money-legos-InstCryp-Biconomy	false	false	false
+31-Gitcoin Grants:Grant	0xb53b0255895c4f9e3a185e484e5b674bccfbc076	Grant 213 Metagame		https://gitcoin.co/grants/213/metagame			false	false	false
+31-Gitcoin Grants:Grant	0xb631e8650fb4befdae74ab9f86a9cb65bc134706	Grant 228 Buidhub Eventflow mdcoon		https://gitcoin.co/grants/228/buidhub-eventflow			false	false	false
+31-Gitcoin Grants:Grant	0xb632c8e5f87a47a0caeb613cbdf0f748217d2840	Grant 618 Arboreum		https://gitcoin.co/grants/618/arboreum		https://www.arboreum.finance	false	false	false
+31-Gitcoin Grants:Grant	0xb64850fe701fb64667b6cc762aa2c12f2e02193c	Grant 742 Crypto community ventures network		https://gitcoin.co/grants/742/crypto-community-ventures-network		https://www.bitfwd.com	false	false	false
+31-Gitcoin Grants:Grant	0xb6568dc090302196ec8edf56d99c3484cee94e6a	Grant 207 Stablepay		https://gitcoin.co/grants/207/stablepay			false	false	false
+31-Gitcoin Grants:Grant	0xb676efa42a0a85f0a9b0c539f47687a824569a2c	Grant 605 StakeWise: ETH 2.0 staking platform		https://gitcoin.co/grants/605/stakewise-eth-20-staking-platform		https://stakewise.io/	false	false	false
+31-Gitcoin Grants:Grant	0xb7745bde70e429bbd5eb57dfa5ca70b84239477a	Grant 062 General Contributions To Python Ecosystem Of Eth		https://gitcoin.co/grants/62/general-contributions-to-python-ecosystem-of-eth-3			false	false	false
+31-Gitcoin Grants:Grant	0xb7b2199af38d3390b0e4a352018e3939d332cfe9	Grant 017 Implement Support For Asyncio Using Web3py		https://gitcoin.co/grants/17/implement-support-for-asyncio-using-web3py-2			false	false	false
+31-Gitcoin Grants:Grant	0xb7b9a7db7bd0393184cf7aeb080da45a8c0a02b5	Grant 896 Mamba Blockchain Development Framework		https://gitcoin.co/grants/896/mamba-blockchain-development-framework		https://mamba.black	false	false	false
+31-Gitcoin Grants:Grant	0xb7fa4569ecbdfe1770ef4c3bd8d937cb03d83f7a	Grant 457 DeLance		https://gitcoin.co/grants/457/delance		http://www.delance.app/	false	false	false
+31-Gitcoin Grants:Grant	0xba0fee8490118fc4f46bd0974d7bf93d0e2f1064	Grant 816 CIC Tech @ Grassroots Economics		https://gitcoin.co/grants/816/cic-tech-grassroots-economics		https://www.grassrootseconomics.org/	false	false	false
+31-Gitcoin Grants:Grant	0xbadcddea250f1e317ba59999232464933c4e8d90	Grant 413 Fusion open source iconset for the cryptospace		https://gitcoin.co/grants/413/fusion-open-source-iconset-for-the-cryptospace		https://fusion.li	false	false	false
+31-Gitcoin Grants:Grant	0xbbbfc46566e5f0302cef913af8c8f423070ce6a1	Grant 235 Defizap		https://gitcoin.co/grants/235/defizap			false	false	false
+31-Gitcoin Grants:Grant	0xbbd13ca6aace2a8eccbde88bc7849c3c6e4e172e	Grant 247 Defi Design By Ricburton		https://gitcoin.co/grants/247/defi-design-by-ricburton			false	false	false
+31-Gitcoin Grants:Grant	0xbc053672b9ad8c8fa34cf87df22c0667bd14d43a	Grant 209 The Coin Republic By The Coins From The Coins Fo 2					false	false	false
+31-Gitcoin Grants:Grant	0xbc11295936aa79d594139de1b2e12629414f3bdb	Grant 142 Nethermind Grant 273 History As A Service Untrusted Db					false	false	false
+31-Gitcoin Grants:Grant	0xbc2138f76db98af69c8c9d5c365263dca32f5e63	Grant 379 AntiPhishing Browser Plugin PhishFort Protect		https://gitcoin.co/grants/379/anti-phishing-browser-plugin-phishfort-protect		https://phishfort.com/protect	false	false	false
+31-Gitcoin Grants:Grant	0xbc58fd3becf189232edf3f7bf10f486c8ebb060d	Grant 857 Community Currencies NOW				https://gitcoin.co/grants/857/community-currencies-now-by-the-community-currenc	false	false	false
+31-Gitcoin Grants:Grant	0xbc5d1e83b6e36391e5902fcfd5f44c4e786cf618	Grant 173 S33D A Golden Charter 2		https://gitcoin.co/grants/395/s33d-mvp-app-web-3-integration-maintenance			false	false	false
+31-Gitcoin Grants:Grant	0xbc5ec594509ed050f4a53eee85d92af6d2529b56	Grant 383 ActivityWatch		https://gitcoin.co/grants/383/activitywatch		https://activitywatch.net/	false	false	false
+31-Gitcoin Grants:Grant	0xbca89cfff5cfe1313ac392ddf922eeefa2024b54	Grant 096 Grinswap Cross Chain Atomic Swaps With Grin		https://gitcoin.co/grants/96/grinswap-cross-chain-atomic-swaps-with-grin			false	false	false
+31-Gitcoin Grants:Grant	0xbcede714283f348ebb3e5cbaf8a947cab3c8be8d	Grant 079 Lodestar Eth20 Client		https://gitcoin.co/grants/79/lodestar-eth20-client			false	false	false
+31-Gitcoin Grants:Grant	0xbd53a5df1fd60aba402cf346ee07ed8b058c17d0	Grant 118 Public Health Incentives Layer App		https://gitcoin.co/grants/118/public-health-incentives-layer-app			false	false	false
+31-Gitcoin Grants:Grant	0xbd9cdcb6688b057080b1767261c5dc17a5804e82	Grant 256 Enzyptio		https://gitcoin.co/grants/256/enzyptio			false	false	false
+31-Gitcoin Grants:Grant	0xbdc23ce356dc491dfaf8e5042f9d1bdd9a854c97	Grant 446 Valibre		https://gitcoin.co/grants/446/valibre		https://github.com/valibre-org/	false	false	false
+31-Gitcoin Grants:Grant	0xbe4ba4b9b3dbe25a93820eef90fb4da150380510	Grant 186 Validity		https://gitcoin.co/grants/186/validity			false	false	false
+31-Gitcoin Grants:Grant	0xbeb87b2e4d8b89cd2af8a3c7103db7fb2f5af022	Grant 771 Bloom Finance		https://gitcoin.co/grants/771/bloom-finance		https://bloom-finance.com	false	false	false
+31-Gitcoin Grants:Grant	0xc035ae607959d186be47be02edef9b358725ab11	Grant 733 NoteStream		https://gitcoin.co/grants/733/notestream		https://note.stream	false	false	false
+31-Gitcoin Grants:Grant	0xc0ebefadcbf1d2a85fbfddc226a95860f5152b5f	Grant 634 LikeCoin Republic of Liker Land		https://gitcoin.co/grants/634/likecoin-republic-of-liker-land		https://docs.like.co/	false	false	false
+31-Gitcoin Grants:Grant	0xc2f050158910fae078a7e10b7b09e021fb217769	Grant 761 Downtown Stimulus Quadratic Funding for COVID economic distress		https://gitcoin.co/grants/761/downtown-stimulus-quadratic-funding-for-covid-eco		https://youtu.be/N4K3Pj0t9Iw	false	false	false
+31-Gitcoin Grants:Grant	0xc30a7cf3b1a09813f8b843c68b829fffba729c95	Grant 850 StudyDefi		https://gitcoin.co/grants/850/studydefi		https://studydefi.com/	false	false	false
+31-Gitcoin Grants:Grant	0xc316319950bf01e18748ed807c05cbe64d48da6b	Grant 427 Deep Work Staking Hackathon		https://gitcoin.co/grants/427/deep-work-staking-hackathon		https://www.notion.so/deepworkstudio/Deep-Work-Hackathon-250d294082f34bfeaa44edb31e5ae6f5	false	false	false
+31-Gitcoin Grants:Grant	0xc37e165fcfa2cb5cca7329dd9daa8cd72907b983	Grant 037 Connext Network		https://gitcoin.co/grants/37/connext-network			false	false	false
+31-Gitcoin Grants:Grant	0xc3a4aa41db09e79aa46b1ad8acab8fa5df6ec8db	Grant 722 Graphite		https://gitcoin.co/grants/722/graphite		https://github.com/GraphiteTools	false	false	false
+31-Gitcoin Grants:Grant	0xc3f6e18b429b6baf1bd31b1e504aee7827c7aab5	Grant 809 3MILY Royalties Sale MVP		https://gitcoin.co/grants/809/3mily-royalties-sale-mvp		https://thisguy.io	false	false	false
+31-Gitcoin Grants:Grant	0xc44e4c49ffa5db98ca52770dff3e371ecb01f2d9	Grant 480 Token Allowance Checker		https://gitcoin.co/grants/480/token-allowance-checker		https://tac.dappstar.io	false	false	false
+31-Gitcoin Grants:Grant	0xc4d9d1a93068d311ab18e988244123430eb4f1cd	Grant 858 Ethereum for Environmental Intelligence		https://gitcoin.co/grants/858/ethereum-for-environmental-intelligence		https://www.curvelabs.eu/	false	false	false
+31-Gitcoin Grants:Grant	0xc5b70ed619c54e3867499fce5cc9072047369cbb	Grant 342 and Grant 563 Block Bot and SC for non developers		https://gitcoin.co/grants/342/block-bot and https://gitcoin.co/grants/563/smart-contracts-for-non-blockchain-developers		https://github.com/mlnck/mlnck.openSource.grant.BlockBot and https://trello.com/b/w7WU1fwd/utility-smart-contracts	false	false	false
+31-Gitcoin Grants:Grant	0xc5cdcd5470aef35fc33bddff3f8ecec027f95b1d	Grant 066 Leapdao Building A Home For Dapps On Layer		https://gitcoin.co/grants/66/leapdao-building-a-home-for-dapps-on-layer-2			false	false	false
+31-Gitcoin Grants:Grant	0xc5d6d2ea25bb7cf7c997ba135fdd141555884685	Grant 792 KERNEL 🌱 My Contributions		https://gitcoin.co/grants/792/kernel-my-contributions		https://gitcoin.co/blog/announcing-kernel/	false	false	false
+31-Gitcoin Grants:Grant	0xc662606edb852ba22f75680f7b2c89767014520e	Grant 144 Defi Tutorials		https://gitcoin.co/grants/144/defi-tutorials			false	false	false
+31-Gitcoin Grants:Grant	0xc728dea8b2972e6e07493be8dc2f0314f7dc3e98	Grant 856 KERNEL		https://gitcoin.co/grants/856/kernel		https://gitcoin.co/blog/announcing-kernel/	false	false	false
+31-Gitcoin Grants:Grant	0xc72acaba5be1592e4a11c05a4365b82dc11b2f6a	Grant 888 Brownie		https://gitcoin.co/grants/888/brownie		https://github.com/eth-brownie/brownie	false	false	false
+31-Gitcoin Grants:Grant	0xc73e3b03e8e7b1a4d839972fed076240b44026f9	Grant 637 KIWI Token Development		https://gitcoin.co/grants/637/kiwi-token-development		https://trello.com/b/mxfIIrR1/kiwi-projects	false	false	false
+31-Gitcoin Grants:Grant	0xc741cdda197af87acd54a4a5f563c8efdbc754b7	Grant 515 Almonit		https://gitcoin.co/grants/515/almonit		https://almonit.eth.link/	false	false	false
+31-Gitcoin Grants:Grant	0xc82b9cac090a6e8737a77c1eae4c6eb282130bb0	Grant 325 Content about NFTs by Theo Goodman		https://gitcoin.co/grants/325/content-about-nfts-by-theo-goodman		https://medium.com/@theog__	false	false	false
+31-Gitcoin Grants:Grant	0xc8b186ed4780143ba9116387611063a0e96d7b8f	Grant 125 Kickback		https://gitcoin.co/grants/125/kickback			false	false	false
+31-Gitcoin Grants:Grant	0xc9323223d513d5510adc4fe516bc12e1120386df	Grant 594 NuFi An Open EthereumOnly DAObased Alternative to DApp Trackers CMC.		https://gitcoin.co/grants/594/nufi-an-open-ethereum-only-dao-based-alternative-t		http://www.nufi.io	false	false	false
+31-Gitcoin Grants:Grant	0xc95c558daa63b1a79331b2ab4a2a7af375384d3b	Grant 444 White Hat Hacking		https://gitcoin.co/grants/444/white-hat-hacking		https://samczsun.com/research/	false	false	false
+31-Gitcoin Grants:Grant	0xc9a872868afa68ba937f65a1c5b4b252dab15d85	Grant 025 Lighthouse Ethereum 20 Client paulhauner		https://gitcoin.co/grants/25/lighthouse-ethereum-20-client			false	false	false
+31-Gitcoin Grants:Grant	0xc9e093dd5b67001c6f975bc4f62d0423909089aa	Grant 320 banq.link		https://gitcoin.co/grants/320/banqlink		https://github.com/keviinfoes/LinkedFC_backend	false	false	false
+31-Gitcoin Grants:Grant	0xca1d22a140d12b5e9d38b46f3f350cf469ba4fe7	Grant 272 Blockshop Washington Dcs Blockchain Incubator		https://gitcoin.co/grants/272/blockshop-washington-dcs-blockchain-incubator			false	false	false
+31-Gitcoin Grants:Grant	0xcb9327bd57680a9cb9eed1246f8f439a630b3696	Grant 803 ALEF		https://gitcoin.co/grants/803/alef		https://alef-compound.github.io/Hello/	false	false	false
+31-Gitcoin Grants:Grant	0xcbec15583a21c3ddad5fab658be5b4fe85df730b	Grant 275 Walletconnect 2 pedrouid		https://gitcoin.co/grants/275/walletconnect-2			false	false	false
+31-Gitcoin Grants:Grant	0xcc9354e76bc27bc846934d22df6e1efa77b6a80d	Grant 711 Furucombo Build your own DeFi legos into one transaction		https://gitcoin.co/grants/711/furucombo		https://furucombo.app/	false	false	false
+31-Gitcoin Grants:Grant	0xcce77c7703a9e1ab8fd22b31227e1658023b09c4	Grant 903 Food Web Organic mechanic		https://gitcoin.co/grants/903/food-web-organic-mechanic-2		https://organicmechanic.co.nz/	false	false	false
+31-Gitcoin Grants:Grant	0xcda84cc75ec5c92a5dacabc13241256beceef964	Grant 176 Twigwam Rethereum Mod General Intelligence Relay S					false	false	false
+31-Gitcoin Grants:Grant	0xcdcbc6b4e1a7a1d671fc6a5f2e2a89122d79108e	Grant 097 Knockturn Allee Grin Payment Processor		https://gitcoin.co/grants/97/knockturn-allee-grin-payment-processor			false	false	false
+31-Gitcoin Grants:Grant	0xcea6435bd3463764f835da8fa8a26f6d4d72c3a9	Grant 035 Blockscout Blockchain Explorer For Inspecting And		https://gitcoin.co/grants/35/blockscout-blockchain-explorer-for-inspecting-and			false	false	false
+31-Gitcoin Grants:Grant	0xced2d002d5c2e5a3ef2c3aae00c671a1d2b225a6	Grant 842 DAOGoverned EIPs and ETH 2.0 spec		https://gitcoin.co/grants/842/dao-governed-eips-and-eth-20-spec		https://www.uprtcl.io	false	false	false
+31-Gitcoin Grants:Grant	0xcf82589d5bf9d27d959cfbb75ca43561a79d2be1	Grant 407 Crypto Law Review Student Article Prize		https://gitcoin.co/grants/407/crypto-law-review-student-article-prize		http://www.cryptolawreview.org	false	false	false
+31-Gitcoin Grants:Grant	0xcfa6118dccccbd782c2a097e3e448bc679770c5d	Grant 373 Nym		https://gitcoin.co/grants/373/nym		https://nymtech.net	false	false	false
+31-Gitcoin Grants:Grant	0xcfbb0c8a2c292b7c45cbade5ac6a25d2580dcb94	Grant 271 Jelly Swap Cross Chain Atomic Swap Protocol		https://gitcoin.co/grants/271/jelly-swap-cross-chain-atomic-swap-protocol			false	false	false
+31-Gitcoin Grants:Grant	0xd0aee284d4b8ee835c3c4a9e78dc72d360ed453a	Grant 604 Microsponsors.io		https://gitcoin.co/grants/604/microsponsorsio		https://microsponsors.io	false	false	false
+31-Gitcoin Grants:Grant	0xd0b6fa2ad5e8499cf2efee8ed8414be83162fe2b	Grant 451 Future Bank is LEGO Bank		https://gitcoin.co/grants/451/future-bank-is-lego-bank		https://futurebank.xyz	false	false	false
+31-Gitcoin Grants:Grant	0xd12dd8aeb8f96d0bff6aa9c74bdf92009741d3aa	Grant 745 Cipher Dogs Team		https://gitcoin.co/grants/745/cipher-dogs-team		https://github.com/CipherDogs	false	false	false
+31-Gitcoin Grants:Grant	0xd1933df1c223ad7cb5716b066ca26bc24569e622	Grant 384 Ethereum on ARM		https://gitcoin.co/grants/384/ethereum-on-arm		https://github.com/diglos/pi-gen	false	false	false
+31-Gitcoin Grants:Grant	0xd19f56be804881fcb2284e991e3ca1b078d8bcc0	Grant 537 Q.E.D.		https://gitcoin.co/grants/537/qed		https://github.com/teamqed	false	false	false
+31-Gitcoin Grants:Grant	0xd1a8dd23e356b9fae27df5def9ea025a602ec81e	Grant 646 Gitcoin developer grant @codignsh		https://gitcoin.co/grants/646/gitcoin-developer-grant-codignsh		https://github.com/gitcoin	false	false	false
+31-Gitcoin Grants:Grant	0xd25185f8c3b9e38c3f014378ce58b362db568352	Grant 303 and Grant 304 Daohaus Pokemol and Raid Guild		https://gitcoin.co/grants/303/daohauspokemol-3 and https://gitcoin.co/grants/304/raid-guild-3		https://daohaus.club/ and https://www.raidguild.org	false	false	false
+31-Gitcoin Grants:Grant	0xd25def1db4f994e2800e438ebb29eae300d56151	Grant 105 Tasit Mobile Ethereum Dapps		https://gitcoin.co/grants/105/tasit-mobile-ethereum-dapps			false	false	false
+31-Gitcoin Grants:Grant	0xd277a99c0d08ded3bdb253024bff81e41496465c	Grant 343 and Grant 417 X5 Engine and X5 CMS		https://gitcoin.co/grants/343/x5-engine and https://gitcoin.co/grants/417/x5-cms		https://x5engine.com/ amd https://cms.x5engine.com	false	false	false
+31-Gitcoin Grants:Grant	0xd44acd5a54f8d802a289c4c346d93f79177343ca	Grant 240 Ethsearch		https://gitcoin.co/grants/240/ethsearch			false	false	false
+31-Gitcoin Grants:Grant	0xd461cf004eda0ddb0028b831b62bf38b3a6d1e5a	Grant 461 Aleph.im Decentralized opensource cloud platform		https://gitcoin.co/grants/461/alephim-decentralized-open-source-cloud-platform		https://aleph.im	false	false	false
+31-Gitcoin Grants:Grant	0xd465484af946ab1f29ffad0c6971c5fd58b7ab7d	Grant 058 Ironbelly		https://gitcoin.co/grants/58/ironbelly			false	false	false
+31-Gitcoin Grants:Grant	0xd623c2259863ed128e73be8373a10ab764ffd796	Grant 660 Esteem		https://gitcoin.co/grants/660/esteem		https://github.com/esteemapp	false	false	false
+31-Gitcoin Grants:Grant	0xd70ea563d6d811c58ea1a095875d042d8737b2e6	Grant 831 Justice Committee		https://gitcoin.co/grants/831/justice-committee		https://www.justicecommittee.org/	false	false	false
+31-Gitcoin Grants:Grant	0xd7fe300587d41ed0e8b6a2bed5a1b2bb4fcdad9e	Grant 255 Open Raise 3		https://gitcoin.co/grants/255/open-raise-3			false	false	false
+31-Gitcoin Grants:Grant	0xd8d149e288273b35c633afc0f825ef273e2f1257	Grant 112 Devcon Scholars Program		https://gitcoin.co/grants/112/devcon-scholars-program			false	false	false
+31-Gitcoin Grants:Grant	0xda46ae2f81a8419d9598a540ed59ea3e11d8cfc7	Grant 890 Simplifying DAOs DeFi and Ethereum		https://gitcoin.co/grants/890/simplifying-daos-defi-and-ethereum		https://curadao.io/	false	false	false
+31-Gitcoin Grants:Grant	0xdaacd1e11302375b3d7661948b50b7efa5c6160b	Grant 595 ETH DEX on Layer 2 with Uniswaplike price discovery		https://gitcoin.co/grants/595/eth-btc-layer-2-uniswap-like-dex		https://twitter.com/@gakonst	false	false	false
+31-Gitcoin Grants:Grant	0xdab148614f22dda800cf006be7932eeeb75ac644	Grant 279 End Of The Chain Podcast					false	false	false
+31-Gitcoin Grants:Grant	0xdb4d88080ed478c729b07e23f8e0ccd1f57d3f9b	Grant 375 Sense Collective: Collaborative Sensemaking and Collective Intelligence		https://gitcoin.co/grants/375/sense-collective-collaborative-sensemaking-and-col		https://www.sensecollective.org	false	false	false
+31-Gitcoin Grants:Grant	0xdb53fd872368c4d72ebb814b1e5d7b1babe2b834	Grant 720 Crypto Fonts		https://gitcoin.co/grants/720/crypto-fonts		https://cryptofonts.com/index.html	false	false	false
+31-Gitcoin Grants:Grant	0xdb7fc5e20fe4567ececba1df82a234781aa37f8c	Grant 089 Hopr Decentralized Privacy Preserving Messaging		https://gitcoin.co/grants/89/hopr-decentralized-privacy-preserving-messaging-2			false	false	false
+31-Gitcoin Grants:Grant	0xdb9bc8b6770e179b2f1f6cd0562bbcdb99784f39	Grant 328 Ether Data Science		https://gitcoin.co/grants/328/ether-data-science		https://etherdatascience.com	false	false	false
+31-Gitcoin Grants:Grant	0xdba411d32793e057cb69658cf0d16b55dffb652a	Grant 065 Urllib3		https://gitcoin.co/grants/65/urllib3			false	false	false
+31-Gitcoin Grants:Grant	0xdbe9f117be2636f934cb2f6ee5bfa4d8d91be45d	Grant 812 National Black Chamber of Commerce		https://gitcoin.co/grants/812/national-black-chamber-of-commerce		https://www.nationalbcc.org/	false	false	false
+31-Gitcoin Grants:Grant	0xdcab3ac98dc87a1eb85cf9f81cf75c09ee8e7e5a	Grant 197 Play Ethereum 2 serapath		https://gitcoin.co/grants/197/play-ethereum-2			false	false	false
+31-Gitcoin Grants:Grant	0xdd4c48c0b24039969fc16d1cdf626eab821d3384	Grant 198 Tornadocash		https://gitcoin.co/grants/198/tornadocash			false	false	false
+31-Gitcoin Grants:Grant	0xddb1cb4edbcd83066abf26e7102dc0e88009deab	Grant 281 Upala Price Of Presonhood Digital Identity					false	false	false
+31-Gitcoin Grants:Grant	0xddc0e4931936d9f590ccb29f7f4758751479d0a8	Grant 449 EthKids.io		https://gitcoin.co/grants/449/ethkidsio		https://ethkids.io/	false	false	false
+31-Gitcoin Grants:Grant	0xddfc2e10702d8a781727a34d83b3bb3ca94a3e91	Grant 455 Floflis OS		https://gitcoin.co/grants/455/floflis-os		https://floflis.github.io/	false	false	false
+31-Gitcoin Grants:Grant	0xdf631777df4debcbcd647e85bdcb868b43663ba0	Grant 833 capitalETH Systematic Investments on Ethereum		https://gitcoin.co/grants/833/capitaleth-systematic-investments-on-ethereum		https://github.com/sudeepb02/capitalETH	false	false	false
+31-Gitcoin Grants:Grant	0xdf6c53df56f3992fc44195518a2d8b16306af9ff	Grant 146 Grant 147 Trinity Research For Migration Of Ethereum 1X To 2		https://gitcoin.co/grants/147/trinity-ethereum-20-client			false	false	false
+31-Gitcoin Grants:Grant	0xe126b3e5d052f1f575828f61feba4f4f2603652a	Grant 259 Rosco Kalis RoscoKalis		https://gitcoin.co/grants/259/rosco-kalis			false	false	false
+31-Gitcoin Grants:Grant	0xe248502d5cc53517060791f86999a218c63733b4	Grant 825 SeedBed		https://gitcoin.co/grants/825/seedbed		https://www.seedbed.io/	false	false	false
+31-Gitcoin Grants:Grant	0xe402823203e5714eec86f8959fc26688c1e42142	Grant 353 Lease		https://gitcoin.co/grants/353/lease		https://github.com/TamirTian/Lease	false	false	false
+31-Gitcoin Grants:Grant	0xe5e1e9c58db4ecab40fd46d7ac3578b74c1d0921	Grant 327 DeFi Fund		https://gitcoin.co/grants/327/defi-fund		https://medium.com/@colin_	false	false	false
+31-Gitcoin Grants:Grant	0xe6ec16383e225ae9166ccf1381e25491701f65d5	Grant 810 Black Girls CODE		https://gitcoin.co/grants/810/black-girls-code		https://www.blackgirlscode.com/	false	false	false
+31-Gitcoin Grants:Grant	0xe76be9c1e10910d6bc6b63d8031729747910c2f6	Grant 679 Stitch		https://gitcoin.co/grants/679/stitch		http://stitch.app	false	false	false
+31-Gitcoin Grants:Grant	0xe78a549b69892edd52aafa34600f549c690ca83c	Grant 837 Pods Finance		https://gitcoin.co/grants/837/pods-finance		https://pods.finance/	false	false	false
+31-Gitcoin Grants:Grant	0xe7d960ee16d6fcddeb66b0afbbfa051f61ef0e6c	Grant 737 Ara open source voice assistant		https://gitcoin.co/grants/737/ara-open-source-voice-assistant		https://github.com/FultonBrowne	false	false	false
+31-Gitcoin Grants:Grant	0xe80d06389ef23312389f173a7b6f66a12543640e	Grant 408 Seeds: Ask the Blockchain for Money Receive it as a Gift		https://gitcoin.co/grants/408/seeds-ask-the-blockchain-for-money-receive-it-as-a		https://www.seedsgives.com	false	false	false
+31-Gitcoin Grants:Grant	0xe8130f62f1212ac1dd1274474e6eb3d3bfb59745	Grant 478 Outlet Finance		https://gitcoin.co/grants/478/outlet-finance		https://outlet.finance	false	false	false
+31-Gitcoin Grants:Grant	0xe990aab0655654518a6fb49d5837bd4cf5b15b24	Grant 769 Writing is Designing		https://gitcoin.co/grants/769/writing-is-designing		https://gitcoin.co/	false	false	false
+31-Gitcoin Grants:Grant	0xea0dd72cadf88ea3b1b371d987644ca00901d9d6	Grant 497 CO2ken: Towards a Carbon Negative Web3 🌱🌟		https://gitcoin.co/grants/497/co2ken-towards-a-carbon-negative-web3		https://www.co2ken.io/	false	false	false
+31-Gitcoin Grants:Grant	0xeb355c18a4baf212da05ed455cf2db760704d34c	Grant 350 BLlOCKCHAIN DEFI IN AFRICAN UNIVERSITIES		https://gitcoin.co/grants/350/bllockchain-defi-in-african-universities		https://cryptoafric.com/Gallery.aspx	false	false	false
+31-Gitcoin Grants:Grant	0xeb5b8537a39503d6221f30c3d12d38f540a6caa4	Grant 527 Democracy.js		https://gitcoin.co/grants/527/democracyjs		https://github.com/invisible-college/democracy	false	false	false
+31-Gitcoin Grants:Grant	0xebdb626c95a25f4e304336b1adcad0521a1bdca1	Grant 139 Defiprimecom		https://gitcoin.co/grants/139/defiprimecom			false	false	false
+31-Gitcoin Grants:Grant	0xebf03226c3a0eeaba2b956de54033079949c0c88	Grant 525 Cryptorado: OSS Dev Fund		https://gitcoin.co/grants/525/cryptorado-oss-dev-fund		https://github.com/Cryptorado-Community/	false	false	false
+31-Gitcoin Grants:Grant	0xec52a4336904f98adca74f87441fa966cf770db4	Grant 385 Locha Mesh: private txs censorshipresistant dApps and IPFS over a resilient longrange radio mesh network		https://gitcoin.co/grants/385/locha-mesh-private-txs-censorship-resistant-dapps		https://github.com/btcven/locha	false	false	false
+31-Gitcoin Grants:Grant	0xed2cc1105ebf222eda3c1a32f9b1ca20523a947b	Grant 130 Black Girls Code X Blockchain Ecosystem					false	false	false
+31-Gitcoin Grants:Grant	0xed628e601012cc6fd57dc0cede2a527cdc86a221	Grant 465 Gitcoin Developer Grant zoek1		https://gitcoin.co/grants/465/gitcoin-development-team		https://gitcoin.co	false	false	false
+31-Gitcoin Grants:Grant	0xee0579b4c36fd52ec0a2b542fb801f136838b7f1	Grant 635 ETHack Management Ethical Hacking Service		https://gitcoin.co/grants/635/ethack-management-ethical-hacking-service		https://www.facebook.com/Sirlupinwatson1	false	false	false
+31-Gitcoin Grants:Grant	0xee2cd45abeaa8e34b101d30b06a7401999d0b29e	Grant 592 KEwasm and KWasm		https://gitcoin.co/grants/592/kewasm-and-kwasm		https://github.com/kframework/wasm-semantics	false	false	false
+31-Gitcoin Grants:Grant	0xeea44e078164d98a21ede8b47628f30a8087d86d	Grant 564 Autopia		https://gitcoin.co/grants/564/autopia		https://autopia.co/	false	false	false
+31-Gitcoin Grants:Grant	0xeea95edfc25f15c0c44d4081bbd85026ba298dc6	Grant 378 TokenCast		https://gitcoin.co/grants/378/tokencast		http://tokencast.net/	false	false	false
+31-Gitcoin Grants:Grant	0xef42cf85be6adf3081ada73af87e27996046fe63	Grant 188 Ethdevtools musnit		https://gitcoin.co/grants/188/ethdevtools			false	false	false
+31-Gitcoin Grants:Grant	0xef8305e140ac520225daf050e2f71d5fbcc543e7	Grant 852 Potion		https://gitcoin.co/grants/852/potion		https://potion.finance	false	false	false
+31-Gitcoin Grants:Grant	0xf053adb5d6310219f84b5792db23a4fed3c25d57	Grant 322 Interaxis		https://gitcoin.co/grants/322/interaxis-2		https://www.youtube.com/c/interaxis	false	false	false
+31-Gitcoin Grants:Grant	0xf05f5d4ad1b3fd5ad57ba5ca386d0db2e8b317aa	Grant 767 DyTokens		https://gitcoin.co/grants/767/dytokens		https://dytokens.cryptionstudios.com	false	false	false
+31-Gitcoin Grants:Grant	0xf19ab8f5c20d77119dba61bc195214fdc045e680	Grant 758 bpluslab		https://gitcoin.co/grants/758/bpluslab		http://bitoken.world	false	false	false
+31-Gitcoin Grants:Grant	0xf2c0e63c26067d5ab1c3157bccc70f4f12115af0	Grant 689 Unspent.io – Smart Portfolio DeFi Dashboard		https://gitcoin.co/grants/689/unspent		https://unspent.io	false	false	false
+31-Gitcoin Grants:Grant	0xf3047b2b495e31c1e39f198448ae5f382739264a	Grant 106 Holochain Development		https://gitcoin.co/grants/106/holochain-core-development			false	false	false
+31-Gitcoin Grants:Grant	0xf3829dc5c3aac332218928dee626e641116e8556	Grant 488 Mavin Fighting fake news bad bots and online trolls		https://gitcoin.co/grants/488/mavin-fighting-fake-news-bad-bots-and-online-troll		https://mavin.org	false	false	false
+31-Gitcoin Grants:Grant	0xf39d549463d8d31f319225ef5c26d88f30945a38	Grant 131 You Decentralized Password Management		https://gitcoin.co/grants/131/you-decentralized-password-management			false	false	false
+31-Gitcoin Grants:Grant	0xf5913759b449fae8900d61f7116d451d200c60f7	Grant 882 Add Aragon DAOs to Deep DAO		https://gitcoin.co/grants/882/add-aragon-daos-to-deep-dao-2		https://deepdao.world	false	false	false
+31-Gitcoin Grants:Grant	0xf5ba01156e3f4c1993bd671b855125d35483ebca	Grant 741 GoDBLedger		https://gitcoin.co/grants/741/godbledger		https://godbledger.com/	false	false	false
+31-Gitcoin Grants:Grant	0xf60865656e44123afb08e4e562cfb10eba432bec	Grant 388 Parkour x Ethereum = Coloradical		https://gitcoin.co/grants/388/parkour-x-ethereum-coloradical		https://parkouredu.org/blog/	false	false	false
+31-Gitcoin Grants:Grant	0xf6411340cef876cedef61fdc644e34e1907a408d	Grant 313 Georgios Konstantopoulos Optimistic ZK Rollup Research Development		https://gitcoin.co/grants/313/georgios-konstantopoulos-optimistic-zk-rollup-rese		https://github.com/gakonst	false	false	false
+31-Gitcoin Grants:Grant	0xf685b27654e63b64ec631028ae20f7a98298f5d6	Grant 509 Community Platform		https://gitcoin.co/grants/509/community-platform		https://community.preciousplastic.com	false	false	false
+31-Gitcoin Grants:Grant	0xf6f4bbf25a1e596df0d77179dd65cf6f78cb7377	Grant 135 Pokemol					false	false	false
+31-Gitcoin Grants:Grant	0xf701f92891c27656bb725fa16e634566813511e8	Grant 878 Lucrum		https://gitcoin.co/grants/878/lucrum		https://hacker-money.github.io/dapp/	false	false	false
+31-Gitcoin Grants:Grant	0xf730f0b040f02d58f912ce5a4331f8371a55188e	Grant 426 ÄroRust		https://gitcoin.co/grants/426/aerorust-2		https://github.com/AeroRust	false	false	false
+31-Gitcoin Grants:Grant	0xf78cd306b23031de9e739a5bcde61764e82ad5ef	Grant 282 - Rocketh A Smart Contract Rool Focusing On Test wighawag		Gitcoin Website			false	false	false
+31-Gitcoin Grants:Grant	0xf8049c8425f9eab4e2ae9e1d950f9d3f71481882	Grant 265 MetaFactory		https://gitcoin.co/grants/265/metafactory		http://www.metafactory.ai	false	false	false
+31-Gitcoin Grants:Grant	0xf83775c95a00612d4cac5053dd484ffa81bae0ad	Grant 081 Decentralize Data Now Cat Herding		https://gitcoin.co/grants/81/decentralize-data-now-cat-herding			false	false	false
+31-Gitcoin Grants:Grant	0xfaf95953a36ed1e8f8426ab5b7eb53da246e3476	Grant 267 Suma Defi Interest Rate Derivatives		https://gitcoin.co/grants/267/suma-defi-interest-rate-derivatives			false	false	false
+31-Gitcoin Grants:Grant	0xfb2f080bcfb10ed3117a3b23653bf23fc3caec71	Grant 370 LTokens: Solving the paradox between Staking DeFi		https://gitcoin.co/grants/370/ltokens-solving-the-paradox-between-staking-defi		https://github.com/stake-capital/research/blob/master/Stake_Capital_DAO_Light_Paper.pdf	false	false	false
+31-Gitcoin Grants:Grant	0xfc29ae0db30064d306cea90f349448ad0d1fa030	Grant 403 Swap Box		https://gitcoin.co/grants/403/swap-box		https://www.github.com/TrueLevelSA/swap-box	false	false	false
+31-Gitcoin Grants:Grant	0xfc2c722b8fe7b3ca277d349cbad6d2c5ce2ecf9c	Grant 185 Daism		https://gitcoin.co/grants/185/daism			false	false	false
+31-Gitcoin Grants:Grant	0xfcad3475520fb54fc95305a6549a79170da8b7c0	Grant 389 WhatIsOnchain?		https://gitcoin.co/grants/389/whatisonchain		https://whatisonchain.com	false	false	false
+31-Gitcoin Grants:Grant	0xfcd819c8a13de2d9e409fdf7d61161091f58dd63	Grant 044 Chainid Network		https://gitcoin.co/grants/44/chainid-network			false	false	false
+31-Gitcoin Grants:Grant	0xfd3ffe624268a88f5fae682bfed8190b74d8c6f6	Grant 023 Eth20 Implementers Call Meeting Notes		https://gitcoin.co/grants/23/eth20-implementers-call-meeting-notes			false	false	false
+31-Gitcoin Grants:Grant	0xfd868db0696ef762351f8421535cc5f9f423b23c	Grant 885 BlockAction Blockchain transaction simplified		https://gitcoin.co/grants/885/blockaction-blockchain-transaction-simplified		https://blockaction.io/	false	false	false
+31-Gitcoin Grants:Grant	0xfdaae0c5a7a56c8265b9f86cf8cd934a494e3733	Grant 238 Bankless					false	false	false
+31-Gitcoin Grants:Grant	0xfe206f90c58feb8e42474c5074de43c22da8bc35	Grant 727 The Dogfood Gitcoin Grant		https://gitcoin.co/grants/727/the-dogfood-gitcoin-grant		https://molecula451.github.io/dogfoodgrant/	false	false	false
+31-Gitcoin Grants:Grant	0xfe222247735b3c7ef099ba761f9477450f5256fe	Grant 103 Tradescope Investigating Market Manipulation		https://gitcoin.co/grants/103/tradescope-investigating-market-manipulation			false	false	false
+31-Gitcoin Grants:Grant	0xff6417ced7095444ad6a6a756446ba51ad334a30	Grant 128 Vyper Smart Contract Language Dev Fund		https://gitcoin.co/grants/128/vyper-smart-contract-language-dev-fund			false	false	false
+31-Gitcoin Grants:Grant	0xff7040a65dd36b9da95b05ef8e1eeea222f6c5fe	Grant 239 The Application Alliance Community Initiative To M					false	false	false
+31-Gitcoin Grants:Grant	0xffd55d121713682b27fd4ad42270461830c45a3e	Grant 174 Defi Educational Videos By Chris Blec		https://gitcoin.co/grants/174/defi-educational-videos-by-chris-blec			false	false	false
