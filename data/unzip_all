@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+cd appearances/core
+gunzip *.gz
+cd -
+
+cd appearances/grants
+gunzip *.gz
+cd -
+
+cd transactions/core
+gunzip *.gz
+cd -
+
+cd transactions/grants
+gunzip *.gz
+cd -
