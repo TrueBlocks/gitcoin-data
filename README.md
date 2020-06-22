@@ -20,6 +20,11 @@ Data repository for git coin data - round 6
 
 In this folder I will store .R code
 
+## FAQ
+
+Q1.
+A1.
+
 ## Contributing
 
 Please feel free to add any folders, data files, or analysis you wish.

@@ -15,3 +15,11 @@ cd -
 cd transactions/grants
 gzip *.json
 cd -
+
+cd logs/core
+gunzip *.json
+cd -
+
+cd logs/grants
+gunzip *.json
+cd -
