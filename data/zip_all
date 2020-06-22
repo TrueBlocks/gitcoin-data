@@ -17,9 +17,9 @@ gzip *.json
 cd -
 
 cd logs/core
-gunzip *.json
+gzip *.json
 cd -
 
 cd logs/grants
-gunzip *.json
+gzip *.json
 cd -
