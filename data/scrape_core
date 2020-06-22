@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# ./extract_one core 0x2aea4add166ebf38b63d09a75de1a7b94aa24163 -- this is kudos contract, so skip
-#./extract_one core 0x6239ff1040e412491557a7a02b2cbcc5ae85dc8f
 ./extract_one core 0x7c19252abedce09724bfc3549925d3ea12770156
 ./extract_one core 0x7d655c57f71464b6f83811c55d84009cd9f5221c
 ./extract_one core 0x970cc8c95c614a7335c1487eb2e16848983d5fe6
