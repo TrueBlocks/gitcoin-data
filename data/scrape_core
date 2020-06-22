@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 
-./extract_one core 0x7c19252abedce09724bfc3549925d3ea12770156
-./extract_one core 0x7d655c57f71464b6f83811c55d84009cd9f5221c
-./extract_one core 0x970cc8c95c614a7335c1487eb2e16848983d5fe6
-./extract_one core 0x975e833cf7e2b58e5444229aa6646be6c99ff961
-./extract_one core 0xc37df6e11bf81b339cc6c02ec14f7b5c7588013f
-./extract_one core 0xdf869fad6db91f437b59f1edefab319493d4c4ce
-./extract_one core 0xe8c904dc650e6fcb3fe39cc82b40bd897c83d8fa
+./extract_one core 0x7c19252abedce09724bfc3549925d3ea12770156 "CLR_Test_Token"
+./extract_one core 0x7d655c57f71464b6f83811c55d84009cd9f5221c "Splitter_Round_6"
+./extract_one core 0x970cc8c95c614a7335c1487eb2e16848983d5fe6 "Subscription_Sender"
+./extract_one core 0xdf869fad6db91f437b59f1edefab319493d4c4ce "Splitter_Round_5"
+./extract_one core 0xe8c904dc650e6fcb3fe39cc82b40bd897c83d8fa "Bot"
