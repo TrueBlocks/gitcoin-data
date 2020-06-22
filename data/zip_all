@@ -1,25 +1,25 @@
 #!/usr/bin/env bash
 
 cd appearances/core
-gzip *.json
+gzip --keep --verbose --no-name --force *.json
 cd -
 
 cd appearances/grants
-gzip *.json
+gzip --keep --verbose --no-name --force *.json
 cd -
 
 cd transactions/core
-gzip *.json
+gzip --keep --verbose --no-name --force *.json
 cd -
 
 cd transactions/grants
-gzip *.json
+gzip --keep --verbose --no-name --force *.json
 cd -
 
 cd logs/core
-gzip *.json
+gzip --keep --verbose --no-name --force *.json
 cd -
 
 cd logs/grants
-gzip *.json
+gzip --keep --verbose --no-name --force *.json
 cd -

@@ -1,29 +1,24 @@
 # gitcoin-data
 
-Data repository for git coin data - round 6
+This is a data repository for data from Round 6 GitCoin Grants.
 
-### ./data folder
+We used [TrueBlocks](http://github.com/Great-Hill-Corporation/trueblocks-core) to extract this data between blocks:
 
-**core.txt** - best guess at the primary smart contracts of gitcoin
+    2020-06-11 18:25:30 UTC (block 10245999)
+    2020-06-21 12:20:07 UTC (block 10309068)
 
-**grants.txt** - list of each individual grant (may have missing items).
+The data is stored in the folder `./data`. Read more [here](./data/README.md).
 
-### ./data/apearances
+## Analysis
 
-    List of transactions blockNumber.txid
+Analysis of the data is stored in the folder `./R`. Read more [here](./R/README.md).
 
-### ./data/transactions
-
-    List of transaction details
-
-### ./R
-
-In this folder I will store .R code
+We very much welcome your own contributions.
 
 ## FAQ
 
-Q1.
-A1.
+**Q1. Why is this data not presented via an API?**  
+**A1.** The TrueBlocks explorer is a local-first, desktop peice of software. In this environment, where it's possible to read and write directly to the hard drive, there is no need for an API. **Upside:** significanlty faster access to the data. **Downside:** no API.
 
 ## Contributing
 

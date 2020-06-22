@@ -1,25 +1,25 @@
 #!/usr/bin/env bash
 
 cd appearances/core
-gunzip *.gz
+gunzip --force --verbose --keep *.gz
 cd -
 
 cd appearances/grants
-gunzip *.gz
+gunzip --force --verbose --keep *.gz
 cd -
 
 cd transactions/core
-gunzip *.gz
+gunzip --force --verbose --keep *.gz
 cd -
 
 cd transactions/grants
-gunzip *.gz
+gunzip --force --verbose --keep *.gz
 cd -
 
 cd logs/core
-gunzip *.gz
+gunzip --force --verbose --keep *.gz
 cd -
 
 cd logs/grants
-gunzip *.gz
+gunzip --force --verbose --keep *.gz
 cd -
