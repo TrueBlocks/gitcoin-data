@@ -4,22 +4,22 @@ cd appearances/core
 gzip --keep --verbose --no-name --force *.json
 cd -
 
-#cd appearances/grants
-#gzip --keep --verbose --no-name --force *.json
-#cd -
+cd appearances/grants
+gzip --keep --verbose --no-name --force *.json
+cd -
 
 cd transactions/core
 gzip --keep --verbose --no-name --force *.json
 cd -
 
-#cd transactions/grants
-#gzip --keep --verbose --no-name --force *.json
-#cd -
+cd transactions/grants
+gzip --keep --verbose --no-name --force *.json
+cd -
 
 cd logs/core
 gzip --keep --verbose --no-name --force *.json
 cd -
 
-#cd logs/grants
-#gzip --keep --verbose --no-name --force *.json
-#cd -
+cd logs/grants
+gzip --keep --verbose --no-name --force *.json
+cd -
