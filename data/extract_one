@@ -8,7 +8,7 @@ END_ROUND_6=10309068
 export API_MODE=true
 export NO_SCHEMAS=true
 #export TEST_MODE=true
-export NO_NAMES=true
+export HIDE_NAMES=true
 
 chifra list $2 --start $START_ROUND_6  --end $END_ROUND_6 | grep -v "\"address\"" | jq '.' >appearances/$1/$2.json
 
